@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Jesus Trail</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="cd_header_image">Header Image</string>
+
+    <string-array name="main_navigation_items">
+        <item>Before You Start</item>
+        <item>On The Trail</item>
+    </string-array>
+
+    <string name="title_activity_map">MapActivity</string>
+    <string name="raw_res_atlas">atlas.zip</string>
+
+</resources>
