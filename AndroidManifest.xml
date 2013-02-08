@@ -32,7 +32,7 @@
         </activity>
         <activity
             android:name="com.fauziazarinn.jesustrail.MapActivity"
-            android:label="@string/title_activity_map" >
+            android:label="@string/title_activity_map" android:theme="@android:style/Theme.Light.NoTitleBar">
         </activity>
     </application>
 

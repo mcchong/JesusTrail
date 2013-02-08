@@ -25,6 +25,8 @@ import android.os.Environment;
 // TODO: Move file in chunks 
 // http://stackoverflow.com/questions/8820837/how-to-write-a-large-file-from-an-applications-assets-folder-to-the-sd-card-with?rq=1
 // TODO: Make Async task
+// TODO: Use assets, instead of res/raw
+
 public class AtlasManager {
 	
 	// @brief osmdroid directory

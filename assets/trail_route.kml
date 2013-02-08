@@ -1,0 +1,1253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>v4 - Nazareth to Capernaum - detailed</name>
+	<open>1</open>
+	<LookAt>
+		<longitude>35.42796146</longitude>
+		<latitude>32.78201901</latitude>
+		<altitude>137.8484497</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>36274.54453</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Style id="path3Style">
+		<LineStyle>
+			<color>ff808000</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="path4Style">
+		<LineStyle>
+			<color>ffc0c0c0</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="path8Style">
+		<LineStyle>
+			<color>ff808000</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="path0Style">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00bde7</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="path0Style0">
+		<LineStyle>
+			<color>ff808000</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="path1Style">
+		<LineStyle>
+			<color>ff808000</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="path7Style">
+		<LineStyle>
+			<color>ff808000</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="path9Style">
+		<LineStyle>
+			<color>ff808000</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="point">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff14ffcb</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="path2Style">
+		<LineStyle>
+			<color>ff808000</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="path6Style">
+		<LineStyle>
+			<color>ff808000</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="path0Style1">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00bde7</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="point0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#point1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#point</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="point1">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff14ffcb</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="path5Style">
+		<LineStyle>
+			<color>ff808000</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="path0Style2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#path0Style</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#path0Style1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="point2">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Waypoints</name>
+		<Placemark>
+			<name>Abu Salem</name>
+			<description>01-APR-10 3:28:57AM</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2963919844,32.7036544215,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Acnt Synagogue</name>
+			<description>08-APR-10 12:22:14</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2817084827,32.753437981,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Al Mutran</name>
+			<description>04-645-7947</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2989121713,32.7051219251,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ancient Bathho</name>
+			<description>01-APR-10 2:42:08AM</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.3016427439,32.7063018456,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ancient Palace</name>
+			<description>01-APR-09 14:04:33</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.5368358456,32.865091553,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ancient Res</name>
+			<description>08-APR-10 10:53:07</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.292275548,32.7469394915,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aqueduct</name>
+			<description>Latitude: 32.7476693876 Longitude : 35.2959980350</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.295998035,32.7476693876,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Arbel Bus Stop</name>
+			<description>42 Tiberias, Kfar Hittim</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.482373843,32.813634295,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Arbel Cliffs</name>
+			<description>Arbel National Park: 04-673-2904 (no English)
+adult/child 20/9 NIS
+8am-5pm summer, 8am-4pm winter</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.5007990263,32.8245900292,-0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ATM - Cana</name>
+			<description>Latitude: 32.7484713681 Longitude : 35.3381440882</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.3381440882,32.7484713681,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ATM - Nazareth</name>
+			<description>Latitude: 32.7011577878 Longitude : 35.2969518118</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2969518118,32.7011577878,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aviv Hostel</name>
+			<description>04-671-2272</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.5420577712,32.7835638821,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Basilica of the Annunciation</name>
+			<description>04-657-2501
+8am-5:30pm
+entrance free</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2978814486,32.7021111455,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bride&apos;s Market</name>
+			<description>Latitude: 32.7039898653 Longitude : 35.2965034638</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2965034638,32.7039898653,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Byzantne House</name>
+			<description>08-APR-10 12:27:19</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2805211022,32.7535098139,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Camping Gear Store</name>
+			<description>Latitude: 32.7879223041 Longitude : 35.5380704161</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.5380704161,32.7879223041,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Campsite - Lavi Forest</name>
+			<description>Latitude: 32.7771600243 Longitude : 35.4180299956</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.4180299956,32.7771600243,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cana - Cemetery</name>
+			<description>01-APR-09 9:57:47</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.3422840778,32.7458951063,166</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cana - Mosque</name>
+			<description>21-MAR-09 13:18:15</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.3400947247,32.7462004591,108.5137939453</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cana Catholic Wedding Church</name>
+			<description>Latitude: 32.7471470274 Longitude : 35.3382859938</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.3382859938,32.7471470274,234</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cana Wedding Guesthouse</name>
+			<description>050-400-7636
+100 NIS</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.338979261,32.7470646333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Capernaum - Ancient</name>
+			<description>Latitude: 32.8806829825 Longitude : 35.5753439851</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.5753439851,32.8806829825,-0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Capernaum National Park</name>
+			<description>Latitude: 32.8831434902 Longitude : 35.5783784017</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.5783784017,32.8831434902,-189</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Carob Reservoir</name>
+			<description>Latitude: 32.7504277881 Longitude : 35.2848419733</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2848419733,32.7504277881,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cave</name>
+			<description>12-MAY-10 16:53:31</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.3997272719,32.7536704112,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Central Bus St</name>
+			<description>07-APR-10 13:29:10</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.536444746,32.7875131834,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Church/Orpheus</name>
+			<description>08-APR-10 11:28:53</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2810203284,32.751908116,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cistern</name>
+			<description>12-MAY-10 16:25:29</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.4017754737,32.7542355191,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Convent/tomb</name>
+			<description>08-APR-10 12:11:54</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2781930286,32.7539492771,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Crusader Fort</name>
+			<description>08-APR-10 12:02:28</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2791209891,32.7532560099,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Diana</name>
+			<description>01-APR-10 1:07:25AM</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2926763706,32.6975891925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dionysus House</name>
+			<description>08-APR-10 11:57:36</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.279661119,32.7529301215,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dwellings</name>
+			<description>08-APR-10 12:10:00</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.278635174,32.7536398172,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>El Babour Spice Shop</name>
+			<description>Latitude: 32.7044632751 Longitude : 35.2999268845</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2999268845,32.7044632751,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>El Machroom</name>
+			<description>01-APR-10 12:58:43AM</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2968362253,32.7006234415,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>El Muchtar Sweets</name>
+			<description>01-APR-10 2:26:07AM</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2994769439,32.7025719825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>En Nun</name>
+			<description>11-APR-10 11:32:14</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.5105508678,32.8412849363,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>End Detour</name>
+			<description>23-SEP-10 15:36:49</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.4537146911,32.8092378192,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fahoum Coffee</name>
+			<description>01-APR-10 12:50:46AM</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.297398651,32.7035027929,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fauzi Azar Inn</name>
+			<description>04-602-0469
+70-400 NIS</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2971970662,32.7047385368,45.0672607422</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ginosar</name>
+			<description>Latitude: 32.8486650344 Longitude : 35.5231539812</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.5231539812,32.8486650344,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Golani Brigade Museum</name>
+			<description>Latitude: 32.7761836164 Longitude : 35.4093482718</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.4093482718,32.7761836164,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Golani Junction</name>
+			<description>WC, food, water located in McDonalds
+
+Golani Brigade Museum-
+04-676-7215 (no English)
+adult/child/senior 14/10/10 NIS
+Sunday-Thursday 9am-4pm, Friday 9pm-1am</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.4141861387,32.7768597845,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Greek Church</name>
+			<description>Latitude: 32.8811442386 Longitude : 35.5771596730</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.577159673,32.8811442386,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Grk Monastery</name>
+			<description>07-APR-10 10:54:48</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.5434071738,32.7850221656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Grocery Store</name>
+			<description>01-APR-10 2:38:35AM</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.3019568138,32.7060575131,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Horns of Hattin</name>
+			<description>Latitude: 32.7993459161 Longitude : 35.4591243714</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.4591243714,32.7993459161,-0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ilaniya</name>
+			<description>Latitude: 32.7539070323 Longitude : 35.4081899766</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.4081899766,32.7539070323,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jesus Boat - Ginosar</name>
+			<description>Latitude: 32.8443770204 Longitude : 35.5252099782</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.5252099782,32.8443770204,-150.8</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kerei Deshe</name>
+			<description>02-594-5631</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.5376683362,32.8637200221,-211</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kfar Cana</name>
+			<description>Latitude: 32.7461698651 Longitude : 35.3378603607</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.3378603607,32.7461698651,-0.11438</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kfar Nakhum Junction</name>
+			<description>Latitude: 32.8764170129 Longitude : 35.5458919890</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.545891989,32.8764170129,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kfar Zeitim</name>
+			<description>Latitude: 32.8116600215 Longitude : 35.4653099645</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.4653099645,32.8116600215,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Khukok Gas</name>
+			<description>WC, food, water</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.5302300677,32.8675763682,-197</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kibbutz Lavi</name>
+			<description>Lavi Hotel - 04-679-9450
+400 NIS</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.441460181,32.7865868993,275.0000000000001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Magdala</name>
+			<description>Latitude: 32.8391666617 Longitude : 35.5075000226</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.5075000226,32.8391666617,-0.11438</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Main Bus Stop</name>
+			<description>01-APR-10 2:21:17AM</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2980178222,32.7012665849,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mark 28:16</name>
+			<description>Latitude: 32.8735153656 Longitude : 35.5514019169</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.5514019169,32.8735153656,-174.1117</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mary&apos;s Well</name>
+			<description>Latitude: 32.7062602714 Longitude : 35.3014930431</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.3014930431,32.7062602714,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marys Well Bus</name>
+			<description>01-APR-10 2:39:56AM</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.3018475138,32.7059479617,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mash&apos;had</name>
+			<description>Latitude: 32.7391999774 Longitude : 35.3237500135</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.3237500135,32.7391999774,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mash&apos;had mosque</name>
+			<description>Latitude: 32.7389781084 Longitude : 35.3239370137</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.3239370137,32.7389781084,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mashad Pool</name>
+			<description>08-APR-10 12:45:41</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.285730036,32.7504662611,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Memorial - Water</name>
+			<description>01-APR-09 11:35:25</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.4311185051,32.7861186862,225</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mensa Cristi</name>
+			<description>Latitude: 32.7043979801 Longitude : 35.2951160073</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2951160073,32.7043979801,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Migdal Bus Stop</name>
+			<description>420, 59, 50, 63 Tiberias
+841 Afula, Hadera, Petach Tikva
+63 Beit She&apos;an
+840 Tel Aviv</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.5099524837,32.8358515352,-206</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Moshav Zippori</name>
+			<description>Latitude: 32.7430757694 Longitude : 35.2775446046</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2775446046,32.7430757694,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mosque - Kfar Hattin</name>
+			<description>spring on hillside behind mosque</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.4528970364,32.8080454096,92.00000000000001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt Beatitudes</name>
+			<description>Latitude: 32.8809999861 Longitude : 35.5558999814</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.5558999814,32.8809999861,-0.11438</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt Bereniki</name>
+			<description>Byzantine church ruins</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.5394162983,32.7755707316,357.0125732422001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt Deborah</name>
+			<description>Latitude: 32.7019653842 Longitude : 35.3507596068</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.3507596068,32.7019653842,433</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt Precipice</name>
+			<description>Latitude: 32.6806279924 Longitude : 35.2979999688</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2979999688,32.6806279924,-0.1143798828</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nazareth</name>
+			<description>Latitude: 32.7008729707 Longitude : 35.2970389836</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2970389836,32.7008729707,-0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nazareth City Bus stop</name>
+			<description>Nazareth Route #6</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2983043995,32.7111099567,455.0000000000001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nazareth Main Bus Stop</name>
+			<description>Latitude: 32.7012393437 Longitude : 35.2980450634</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2980450634,32.7012393437,226</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nazareth Markt</name>
+			<description>01-APR-10 3:22:15AM</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2978095319,32.7040993329,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nazareth Village</name>
+			<description>04-645-6042</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2926803101,32.7000887599,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nebi Shueib</name>
+			<description>Latitude: 32.8052684013 Longitude : 35.4504106287</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.4504106287,32.8052684013,-0.11438</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nile House</name>
+			<description>08-APR-10 11:31:43</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2810087614,32.751432946,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Our Ldy Fright</name>
+			<description>01-APR-10 1:46:12AM</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.3026805911,32.6920677815,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Picnic Area</name>
+			<description>Picnic tables, no water, trash</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.3825552668,32.7661077306,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pilgerhaus Tabgha</name>
+			<description>04-670-0100</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.5434068386,32.8699794598,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Public Building</name>
+			<description>Latitude: 32.7525557857 Longitude : 35.2810013015</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2810013015,32.7525557857,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Roman Road</name>
+			<description>Latitude: 32.7795457654 Longitude : 35.4119816143</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.4119816143,32.7795457654,216</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Roman Theatre</name>
+			<description>08-APR-10 12:16:14</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2797883563,32.7534588519,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Roman Tiberias</name>
+			<description>Hammat Tiberias National Park: 
+04-672-5287
+adult/senior/child 20/12/7 NIS
+8am-5pm Apr-Sept, 8am-4pm Oct-Mar</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.54408703,32.7764053177,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rt 79 stoplight</name>
+			<description>Latitude: 32.7275700029 Longitude : 35.2840499673</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2840499673,32.7275700029,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Scots Hotel</name>
+			<description>04-671-0710</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.5414617341,32.7890917473,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shavit Arbel B&amp;B</name>
+			<description>Shavit B&amp;B: 04-679-4919
+
+100-350NIS</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.4818134289,32.8133822512,45.00000000000001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sisters Of Naz</name>
+			<description>04-655-4304</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.296587199,32.7024616767,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Spring - Arbel</name>
+			<description>Latitude: 32.8257420380 Longitude : 35.4897400271</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.4897400271,32.825742038,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St Gabriel</name>
+			<description>01-APR-10 2:46:09AM</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.3016196098,32.7068612538,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St Peter&apos;s Church - Tiberias</name>
+			<description>Latitude: 32.7882498689 Longitude : 35.5428803712</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.5428803712,32.7882498689,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St Peter&apos;s Primacy</name>
+			<description>Latitude: 32.8730999585 Longitude : 35.5508000124</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.5508000124,32.8730999585,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Start Detour</name>
+			<description>23-SEP-10 15:11:42</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.454426147,32.8059088625,131</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Store</name>
+			<description>09-APR-10 13:51:16</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.4087664001,32.7534029447,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sudfeh</name>
+			<description>01-APR-10 2:49:55AM</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2998667862,32.705779653,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Synagog Church</name>
+			<description>01-APR-10 3:25:58AM</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2968029492,32.7037644759,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Synagogue - Arbel</name>
+			<description>Latitude: 32.8150860406 Longitude : 35.4839700088</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.4839700088,32.8150860406,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tabgha</name>
+			<description>Latitude: 32.8732439596 Longitude : 35.5491610151</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.5491610151,32.8732439596,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tabgha Church</name>
+			<description>Latitude: 32.8745030053 Longitude : 35.5485610384</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.5485610384,32.8745030053,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tiberias</name>
+			<description>Latitude: 32.7942809835 Longitude : 35.5352400150</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.535240015,32.7942809835,-0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tiberias City Wall</name>
+			<description>Latitude: 32.7847779170 Longitude : 35.5420768820</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.542076882,32.784777917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tiberias Hostel</name>
+			<description>04-679-2611</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.5396436155,32.7888063435,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tiberias Tourist Info</name>
+			<description>Latitude: 32.7855861839 Longitude : 35.5420018639</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.5420018639,32.7855861839,-220</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tishreen</name>
+			<description>01-APR-10 2:35:26AM</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.3005106002,32.7056048065,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tomb</name>
+			<description>12-MAY-10 17:19:34</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.401782766,32.7522946894,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tourism Office</name>
+			<description>01-APR-10 12:56:02AM</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2969813161,32.7012087498,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Turan</name>
+			<description>Latitude: 32.7754419018 Longitude : 35.3707961272</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.3707961272,32.7754419018,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Volcano Info</name>
+			<description>31-MAR-09 13:58:49</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.4578739591,32.8052985761,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wadi Hamam</name>
+			<description>Latitude: 32.8290583380 Longitude : 35.4915095307</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.4915095307,32.829058338,-0.11438</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Waterfront - Tiberias</name>
+			<description>Latitude: 32.7866886556 Longitude : 35.5435308907</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.5435308907,32.7866886556,-197.4235839844</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>White Mosque</name>
+			<description>01-APR-10 12:48:36AM</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.297092963,32.704002941,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Yarok Az Organic Goat Farm</name>
+			<description>054-255-8791</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.408072127,32.7595843468,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Yellow Gas Station</name>
+			<description>WC, water, food</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.5027658399,32.8310182784,-182</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Z. Entrance</name>
+			<description>Latitude: 32.7478982136 Longitude : 35.2944224048</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2944224048,32.7478982136,-0.11438</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zippori N P</name>
+			<description>08-APR-10 11:14:15</description>
+			<styleUrl>#path0Style2</styleUrl>
+			<Point>
+				<coordinates>35.2845103852,32.7509084903,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Tracks</name>
+		<open>1</open>
+		<Folder>
+			<name>Paths</name>
+			<open>1</open>
+			<Placemark>
+				<name>J01: Nazareth to Zippori</name>
+				<styleUrl>#path0Style2</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							35.2970713377,32.7023236267,341.4052734375 35.297107799,32.7023910172,341.8859863281 35.2971699927,32.7025589906,343.80859375 35.2970899455,32.7027566358,345.2506103516001 35.2970790491,32.7030943427,349.5765380859 35.2971290052,32.7031795029,351.0184326172001 35.2973016724,32.703307746,353.4218750000001 35.2973402292,32.7033179719,353.4218750000001 35.2973746788,32.7034801617,354.3831787109 35.2975179255,32.7037021145,355.8251953125 35.2976283152,32.7038165275,357.2670898438001 35.2976380382,32.7038327046,357.2670898438001 35.2976679616,32.7039476205,358.7089843750001 35.2976494376,32.7039208822,388.5100097656 35.2976458333,32.7039119136,387.0679931641001 35.2976416424,32.7038960718,358.7089843750001 35.2976276446,32.7039114945,358.7089843750001 35.2977232821,32.704059016,359.1896972656 35.2978573926,32.7045139857,363.5157470703001 35.2977056801,32.7045476809,364.9576416016 35.2976167481,32.7045572363,366.8802490234 35.2973448392,32.7044850681,366.3995361328 35.2973482758,32.7045122255,366.8802490234 35.2972854953,32.7045141533,366.3995361328 35.2971592639,32.7046063542,366.8802490234 35.2971350402,32.7046176698,367.3609619141 35.2971531451,32.7044617664,366.3995361328 35.2968555875,32.7041890193,364.9576416016 35.2968508936,32.704164125,364.9576416016 35.2967119217,32.7041172702,365.4383544922001 35.2965611313,32.7040941361,365.9189453125 35.2965097502,32.703883918,363.0350341797 35.2965229098,32.7037213929,365.4383544922001 35.2962241787,32.7039089799,367.8415527344001 35.2957578097,32.7041621972,370.7255859375 35.2955174167,32.7042001672,373.6094970703001 35.2952818014,32.70437208,376.9742431641001 35.2950435039,32.70442212,380.3387451172001 35.2949548233,32.7044926956,383.7032470703001 35.294427434,32.7046839707,389.4711914062 35.2942825947,32.7047407161,392.8359375000001 35.294105988,32.7049402054,397.6424560547001 35.2942302078,32.7050095238,401.0070800781 35.2942100074,32.705096025,404.3717041016001 35.2942215744,32.7051707916,407.7363281250001 35.2939719614,32.7052670997,412.5428466797001 35.2938629966,32.7053187322,415.9074707031 35.2937947679,32.7054274455,419.2722167969001 35.2937151399,32.7056038845,425.0401611328 35.2936799359,32.7056809142,428.4046630859 35.2936084382,32.7057518251,431.7691650391001 35.2934231143,32.7058716863,438.0178222656 35.293389,32.7059402503,441.8631591797 35.2933719009,32.7060830779,446.1890869141001 35.2933221124,32.7061720937,450.0344238281 35.2932983078,32.7062115725,456.2829589844001 35.2932973858,32.7062088065,454.8408203125001 35.2932363655,32.7062273305,455.3215332031 35.2930465154,32.706208555,454.8408203125001 35.2927806415,32.7062520571,455.8022460938 35.2924696729,32.7062612772,461.0894775391001 35.2923248336,32.7063662186,464.9348144531 35.292206062,32.7065160871,468.2993164062 35.2921705227,32.7066183463,470.2219238281 35.2920209896,32.7067380399,473.1060791016001 35.2918601409,32.706873659,476.4705810547001 35.2916670218,32.7069643512,479.8350830078001 35.2912781853,32.707141377,485.1224365234 35.290841572,32.7073459793,488.4871826172001 35.2904257458,32.7074542735,487.5256347656 35.2903910447,32.7075835224,488.0064697266001 35.2903924696,32.7076293714,487.5256347656 35.2905573417,32.7076836023,488.4871826172001 35.2907566633,32.7077494841,489.4483642578001 35.2908247244,32.7077288646,489.9290771484 35.291136615,32.7077964228,491.3709716797001 35.291564595,32.7078796551,491.8516845703 35.2920420282,32.707951488,491.3709716797001 35.2920904756,32.7080507297,490.8903808594 35.292313518,32.7080427669,490.8903808594 35.2924192138,32.7080559265,490.8903808594 35.292693302,32.7080795635,488.9677734375 35.2932636905,32.7081709262,489.4483642578001 35.2935707197,32.7081851754,489.9290771484 35.2939479891,32.7082952298,491.8516845703 35.2942665853,32.7083687391,492.8129882812 35.2948006801,32.7085545659,494.7355957031 35.2952664625,32.7087873314,495.2161865234 35.2954741661,32.7088885847,495.6968994141 35.2956976276,32.7089659497,495.6968994141 35.2960747294,32.7090287302,494.2550048828001 35.2963609714,32.7090690471,492.8129882812 35.2963744663,32.709071897,492.8129882812 35.2965550125,32.7091451548,491.8516845703 35.2966374066,32.7091713063,490.8903808594 35.2968472894,32.7093192469,488.0064697266001 35.2970224712,32.7094864659,484.6418457031 35.2973814681,32.7097105142,479.8350830078001 35.2976054326,32.709895419,477.4318847656 35.2979134675,32.7101067267,474.0672607422 35.2980738133,32.7101981733,472.1446533203 35.2981790062,32.710390538,471.6639404297001 35.2983345743,32.7104964852,470.2219238281 35.2983809263,32.7106282488,468.7800292969 35.2983719576,32.7108687256,465.4155273438 35.2983888052,32.7112646867,463.0120849609 35.2983529307,32.7116648387,460.6087646484 35.2981887292,32.7119331434,458.2055664062 35.2981542796,32.7120487299,457.2442626953 35.2980541158,32.7122379933,455.8022460938 35.2978802752,32.7125777956,453.8796386719 35.2977178339,32.7128419932,451.4763183594001 35.2976832166,32.712945845,451.4763183594001 35.2974018361,32.7133156545,448.5924072266 35.2973108925,32.7134055924,448.1118164062 35.2972716652,32.7134480048,447.6309814453001 35.2971692383,32.7134921774,446.6696777344001 35.2967884485,32.7135759965,444.2664794922001 35.2962957602,32.7136566304,439.4597167969001 35.2957647666,32.7137291338,435.1339111328 35.2953182627,32.7137571294,429.8465576172001 35.294821132,32.7138536051,424.5594482422001 35.2945086546,32.714043539,420.2333984375 35.2942227479,32.7141823433,417.8302001953001 35.2939228434,32.7144426852,413.9848632812 35.2936729789,32.7146542445,411.5816650391001 35.2932188474,32.7150930371,407.2556152344 35.292855408,32.7153455839,403.8911132812 35.2927583456,32.7153931931,403.4104003906 35.2925841697,32.7155692969,401.4877929688001 35.2922165394,32.7158612385,398.6037597656 35.2917500865,32.7162406873,395.2391357422 35.2913736552,32.7164721116,393.3165283203 35.2908196952,32.7168293484,390.9132080078001 35.2904125024,32.7171033528,387.5485839844 35.2900786512,32.7172571607,386.1066894531 35.2899696864,32.7173535526,384.1840820312 35.2898372523,32.717509456,383.22265625 35.2896090969,32.7177200932,377.4548339844 35.2894754894,32.7178092767,374.0900878906 35.2892053407,32.7179759089,369.7642822266001 35.2890751697,32.7180897351,368.322265625 35.2889151592,32.718200041,367.3609619141 35.2884352952,32.7183459699,365.9189453125 35.2882289328,32.7183836047,364.9576416016 35.2881586924,32.7183920704,363.9963378906 35.2878320497,32.7185941581,362.0737304688001 35.2873847075,32.718775291,359.1896972656 35.2869423945,32.7189122513,357.7478027344001 35.2865171805,32.7191243973,354.3831787109 35.2860495541,32.7193501219,351.0184326172001 35.2856356557,32.719488591,346.6926269531 35.2856127732,32.7195071988,346.6926269531 35.2852694504,32.7196921874,342.8472900391001 35.2851640061,32.7197287325,342.8472900391001 35.2850066777,32.7198452409,340.4440917969001 35.2849851362,32.7199453209,338.0407714844 35.2850150596,32.7202451415,332.7535400391001 35.2850816958,32.7204461396,328.9083251953 35.2850889042,32.7204527613,328.9083251953 35.2851288859,32.7206373308,325.0629882812 35.285253441,32.720935056,319.7756347656 35.2853235137,32.721244432,314.0078125 35.2851893194,32.7213548217,309.6818847656 35.2850643452,32.7215398103,304.8752441406 35.2850018162,32.7217056043,301.5106201172 35.2848470863,32.721949853,296.2235107422 35.2848540433,32.7219956182,295.7426757812 35.2848930191,32.7220719773,292.8587646484 35.2849544585,32.7222428843,289.0135498047 35.2850038279,32.722461652,284.6876220703 35.2849705517,32.7226274461,280.8424072266001 35.2849744074,32.7226296254,280.8424072266001 35.2849937696,32.7228000294,276.9970703125 35.2850101143,32.7228114288,276.5163574219 35.284996368,32.7229075693,275.0744628906 35.2850276325,32.7230327949,273.6324462891 35.2851750702,32.7232000977,271.2291259766 35.2854087576,32.7234363835,269.3065185547 35.285574384,32.7236490324,269.3065185547 35.2855759766,32.7236576658,269.3065185547 35.2856180537,32.7238387149,270.2677001953 35.2856769785,32.7239672933,271.7097167969001 35.2855264395,32.724115653,270.7484130859 35.2852443885,32.7244101092,268.3450927734 35.2853360865,32.7245728858,268.8258056641 35.285330303,32.7245724667,269.3065185547 35.2851774171,32.7246819343,267.8645019531 35.285049174,32.7248012088,266.9031982422 35.2845934499,32.7253258321,263.5385742188001 35.2843075432,32.725787675,260.1739501953 35.2841970697,32.7262514457,257.2900390625001 35.2841093112,32.7265851293,255.3673095703 35.2840495482,32.7269788273,253.4447021484 35.2840185352,32.7273562644,250.5607910156 35.2840249892,32.7275327872,250.0802001953 35.2841532324,32.7276971564,248.1575927734 35.2842345368,32.72785943,246.7154541016 35.2840700839,32.7280678041,243.3508300781 35.2840150986,32.7282260545,243.8315429688 35.2839896176,32.7283956204,240.9476318359 35.2839853428,32.7287047449,239.9862060547 35.2840243187,32.7290746383,238.5443115234 35.2841574233,32.7294713538,238.0635986328 35.2842648793,32.7300461847,237.1022949219 35.2842191141,32.7303081192,237.5828857422 35.2841824852,32.7306395397,237.5828857422 35.2841368038,32.7309528552,237.5828857422 35.2840068843,32.7315787319,237.5828857422 35.2839479595,32.7318609506,236.6217041016 35.2839399967,32.7319089789,237.1022949219 35.2837688383,32.7321301773,236.6217041016 35.2837480512,32.7323246375,236.6217041016 35.2836596221,32.7327830438,236.1409912109 35.2836916409,32.7329529449,236.1409912109 35.2836789005,32.7334129438,236.1409912109 35.2836722787,32.7339281794,235.6602783203 35.2836890426,32.7341496293,234.6990966797 35.2837542538,32.7346123941,233.7376708984 35.2837655693,32.7348300721,233.7376708984 35.2838491369,32.7351785917,233.7376708984 35.2841078024,32.7353560366,233.7376708984 35.2842833195,32.7353953477,234.2183837891 35.2844445873,32.7352699544,235.1796875 35.2846097108,32.7351259533,237.5828857422 35.2848963719,32.7352526039,240.4670410156 35.285136262,32.735271547,244.7928466797 35.28532058,32.7354071662,244.7928466797 35.2853204962,32.7354161348,243.8315429688 35.285292333,32.7355836891,243.3508300781 35.285635991,32.7358424384,240.9476318359 35.2857642341,32.7359710168,239.9862060547 35.2859861869,32.7361601125,240.4670410156 35.2861222252,32.7363152616,240.9476318359 35.2863773704,32.7366955485,241.4282226562 35.286498405,32.7368506137,240.9476318359 35.2866453398,32.7369765099,241.4282226562 35.2867659554,32.7370618377,241.9089355469 35.2872588951,32.737434078,242.3896484375 35.2873335779,32.7375711221,241.4282226562 35.2873906586,32.7376721241,241.9089355469 35.2876482345,32.7378135268,242.3896484375 35.2879231609,32.7378967591,243.3508300781 35.2883697487,32.7380356472,243.8315429688 35.2886414062,32.7381560951,243.8315429688 35.2889670432,32.7382947318,243.8315429688 35.2890136465,32.7383253258,243.8315429688 35.2891976293,32.7383470349,243.8315429688 35.2893438097,32.7384071331,243.8315429688 35.2896163892,32.7384741884,244.3122558594 35.2897816803,32.7385725081,243.8315429688 35.2898834366,32.7385893557,243.8315429688 35.2901464608,32.7386155073,243.8315429688 35.290491879,32.7386992425,243.8315429688 35.2909802087,32.7387438342,243.8315429688 35.2912927698,32.7388315089,244.3122558594 35.2913345955,32.7388579957,243.3508300781 35.2912688814,32.7389471792,243.3508300781 35.2911029197,32.7391341794,242.8702392578 35.2908828948,32.7396154683,242.8702392578 35.2909158356,32.7399557736,243.3508300781 35.2911215276,32.7402799018,243.3508300781 35.2914241143,32.7405753639,244.3122558594 35.2917515114,32.7408963069,245.2734375 35.2918308042,32.741025053,245.2734375 35.2920450456,32.7412685473,246.7154541016 35.2921421919,32.7416269574,247.1960449219 35.2923652343,32.7421809174,247.1960449219 35.2926508896,32.7426582668,248.1575927734 35.2929896861,32.74321164,249.1187744141 35.2931709867,32.743326053,250.0802001953 35.2933960408,32.7435328346,250.5607910156 35.2936083544,32.743696114,250.5607910156 35.2935444005,32.7440164704,249.5994873047 35.2933154069,32.744288547,252.4833984375 35.2933171671,32.7442782372,252.0028076172 35.2931605931,32.7443426102,253.9254150391 35.2929798793,32.7443930693,257.2900390625001 35.2928738482,32.7446441073,261.6159667969001 35.2929533087,32.7450151742,265.9418945312 35.2928557433,32.745255148,268.8258056641 35.2928404883,32.7452661283,268.8258056641 35.2928259876,32.7453065291,269.787109375 35.2928319387,32.7453599218,270.2677001953 35.2928306814,32.7456769254,274.1130371094 35.2928382251,32.7456856426,274.59375 35.2929872554,32.7458413783,276.5163574219 35.2930333558,32.7458731458,276.5163574219 35.2931087092,32.746044891,277.9582519531 35.2931190189,32.746251924,280.8424072266001 35.2933392953,32.7463833522,281.3229980469 35.2936146408,32.7465473861,280.8424072266001 35.29380491,32.7466802392,279.4002685547 35.293978164,32.7468749508,280.3616943359 35.2941727079,32.7470964007,278.9196777344 35.2943703532,32.7473825589,278.9196777344 35.2944662422,32.7476700582,281.3229980469 35.2944638953,32.7478884067,283.2456054688 35.2944627218,32.7478962019,283.7261962891 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>J02: Zippori to Cana</name>
+				<styleUrl>#path0Style2</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							35.2944763843,32.7478949446,280.8424072266001 35.2944957465,32.7479246166,283.2456054688 35.2945296932,32.7479533665,282.7650146484 35.294713676,32.7480557933,282.7650146484 35.2949579246,32.7481630817,282.7650146484 35.2952341083,32.7483527642,281.8035888672001 35.2955240384,32.7485719509,279.880859375 35.2958730608,32.7486768086,276.5163574219 35.2962872945,32.7488095779,274.59375 35.2966571879,32.7488930617,272.6711425781 35.2968995925,32.7489514835,272.6711425781 35.2969402447,32.748964224,272.1904296875 35.2971250657,32.7489829995,272.1904296875 35.2975578234,32.7490080614,272.6711425781 35.2976434864,32.7490072232,273.1518554688 35.2978986315,32.7490419243,274.1130371094 35.2980907448,32.7490613703,275.0744628906 35.298287468,32.7490653936,276.0356445312 35.2987880353,32.7490553353,278.9196777344 35.2990746964,32.7490567602,279.880859375 35.2995562367,32.7491582651,279.4002685547 35.2996191848,32.7491618693,278.9196777344 35.2999181673,32.7492198721,278.4389648438001 35.3003544454,32.7492771205,277.9582519531 35.3006479796,32.7493119892,277.4776611328001 35.3006986901,32.7493301779,277.9582519531 35.301006306,32.7493339498,277.9582519531 35.3011490498,32.7493181918,277.9582519531 35.3014911152,32.7492845803,278.9196777344 35.3021247871,32.7492489573,278.4389648438001 35.3025408648,32.7492837422,277.9582519531 35.3026758134,32.7492649667,277.9582519531 35.3029663302,32.7492977399,278.4389648438001 35.3030809108,32.74928567,278.4389648438001 35.3035663068,32.7492013481,279.880859375 35.3040341847,32.7491039503,281.3229980469 35.3043576423,32.7490335423,282.2843017578001 35.3043845482,32.7490385715,281.8035888672001 35.3048313037,32.7491419204,281.8035888672001 35.3049369995,32.7491303533,281.8035888672001 35.3052555118,32.7492039464,281.8035888672001 35.3055709228,32.7491431776,282.7650146484 35.305644013,32.7488907147,285.6488037109 35.3057985753,32.7484419476,289.494140625 35.3059068695,32.7482733037,290.9361572266001 35.305952467,32.7481836174,291.8974609375 35.3061010782,32.7480556257,292.8587646484 35.3064037487,32.7478068508,295.2619628906 35.3065651003,32.7476663701,297.1846923828 35.3066338319,32.747658072,297.1846923828 35.3067191597,32.7475562319,298.1461181641 35.3068594728,32.74729128,301.5106201172 35.3071660828,32.7470989991,303.9139404297 35.3073384147,32.7466851845,309.6818847656 35.3075018618,32.7464471385,313.0465087891 35.3078010119,32.7461012173,317.3724365234 35.3079670575,32.7459308971,319.7756347656 35.3081166744,32.7458051685,321.6983642578001 35.3083025012,32.7455108799,324.5822753906 35.3085098695,32.7451557387,327.9467773438001 35.3086871468,32.7448167745,331.3115234375 35.3090796713,32.7443317976,335.6373291016 35.3092675097,32.7439788356,339.0020751953 35.3094412666,32.7438722178,341.8859863281 35.3095747903,32.7437970322,343.3278808594 35.3098117467,32.743633166,344.7700195312 35.3101891,32.7433652803,346.2120361328 35.3106599953,32.7430544794,347.1732177734 35.310969539,32.7429177705,348.1346435547 35.3114834335,32.7426601946,346.6926269531 35.3115718625,32.742426591,346.6926269531 35.3117649816,32.7423062269,347.1732177734 35.3118280135,32.7422555164,347.6539306641 35.312227495,32.741991654,349.0958251953 35.3126051836,32.741778167,350.0572509766 35.3131115343,32.7414635103,352.4605712891 35.3133692779,32.7411504462,355.3444824219001 35.3135145362,32.7410553116,355.3444824219001 35.3136223275,32.7409838978,356.3057861328 35.3137773927,32.740889769,356.7863769531 35.3141318634,32.7406169381,358.7089843750001 35.3142338712,32.7404829115,360.1511230469 35.3145362902,32.7402523253,363.9963378906 35.314939376,32.7400997747,365.4383544922001 35.3153090179,32.7399513312,365.4383544922001 35.3155613132,32.7398762293,368.8029785156 35.3159521613,32.7397299651,371.2062988281 35.3163360525,32.7396331541,374.5708007812 35.3165250644,32.7396198269,376.9742431641001 35.3167279065,32.7395707089,378.4161376953001 35.316988416,32.739607254,380.8194580078 35.3175866324,32.7396298852,384.6647949219001 35.3182550892,32.7395945974,387.0679931641001 35.3183917981,32.7395611536,387.5485839844 35.3186181094,32.7395867184,388.9906005859 35.319119934,32.7396417875,391.3937988281 35.3193703853,32.7396177314,392.3553466797001 35.3195683658,32.739607757,392.8359375000001 35.3198556136,32.7395552862,393.3165283203 35.3200540133,32.7395163942,394.2779541016001 35.3205072228,32.7394542843,396.2005615234 35.320845684,32.7394351736,398.6037597656 35.3208606876,32.7394077647,399.0843505859 35.321224127,32.7391265519,400.0458984375 35.3218181524,32.7388000768,393.3165283203 35.3218456451,32.7387895994,393.3165283203 35.322049493,32.7387914434,390.9132080078001 35.3224375751,32.738854643,388.5100097656 35.3228589334,32.7389874123,387.0679931641001 35.3232791182,32.7392242011,385.6259765625 35.3234910965,32.7391092852,384.1840820312 35.3235990554,32.7390443254,382.2613525391001 35.3237870615,32.7390516177,380.3387451172001 35.3237889893,32.7391303238,377.9354248047001 35.3239225969,32.7393087745,375.0515136719 35.3239244409,32.7396525163,369.7642822266001 35.3238443937,32.7401314583,365.9189453125 35.3238847945,32.7402003575,365.9189453125 35.323925782,32.7402669098,364.9576416016 35.3239865508,32.7406509686,359.6704101562 35.3240318131,32.7408751007,355.8251953125 35.3240620717,32.7409600932,354.8637695312 35.324190734,32.7410195209,353.9025878906 35.3244897164,32.7410748415,352.9411621094001 35.3247273434,32.7411700599,349.5765380859 35.3249190375,32.7411809564,347.6539306641 35.3252818901,32.7410809603,343.3278808594 35.3253513761,32.7410456724,341.8859863281 35.3254754283,32.7407901082,339.0020751953 35.3255092073,32.7407630347,338.0407714844 35.3257649392,32.7407684829,337.5600585938 35.3259842098,32.7408390585,337.5600585938 35.3263846133,32.740945844,337.5600585938 35.3265641537,32.7411657013,332.7535400391001 35.3267933987,32.741350187,327.4661865234 35.3270124178,32.7414656058,325.0629882812 35.3271314409,32.7415182441,321.6983642578001 35.327185588,32.7416983712,316.8917236328 35.3271721769,32.7417051606,316.4110107422 35.3273230512,32.7417089324,315.4498291016 35.3274230473,32.7416463196,313.5272216797001 35.3274434991,32.7416351717,312.0852050781 35.3274982329,32.7417049091,310.6430664062 35.3273903579,32.7418279555,310.1624755859 35.3271254897,32.742012525,309.6818847656 35.3272608574,32.7420790773,306.3172607422 35.3277192637,32.7420666721,301.0299072266001 35.3278174158,32.7419875469,300.0687255859 35.3280138038,32.7418474015,297.1846923828 35.3282293864,32.7419333998,292.3781738281 35.3285526764,32.7419401892,287.0908203125 35.3288970888,32.7419431228,281.3229980469 35.3291080613,32.7419451345,278.9196777344 35.329336971,32.7420127764,276.5163574219 35.3298047651,32.7421202324,272.1904296875 35.329895122,32.7421782352,269.787109375 35.330026634,32.7422077395,268.8258056641 35.3302464075,32.7422374953,267.8645019531 35.3306981921,32.7422694303,263.5385742188001 35.331100272,32.7422406804,260.6545410156 35.3315150924,32.7421656623,258.2513427734 35.3320619278,32.742148228,252.9639892578 35.3324972,32.7420817595,248.6381835938 35.3326738905,32.7420635708,246.7154541016 35.332863573,32.7421225794,243.3508300781 35.3331068158,32.7422017884,239.9862060547 35.3334878571,32.7423479687,235.6602783203 35.3335007653,32.7423662413,235.1796875 35.3337346204,32.7424700093,234.2183837891 35.3339156695,32.7425693348,233.7376708984 35.3344999719,32.7429300081,237.1022949219 35.3348618187,32.7430047747,241.4282226562 35.335082598,32.7430201136,242.8702392578 35.335092824,32.7430105582,242.8702392578 35.3350953385,32.7430405654,242.8702392578 35.3350796644,32.7433379553,241.4282226562 35.335016381,32.7437664382,240.9476318359 35.3350089211,32.7437884826,240.9476318359 35.3351213224,32.7439772431,240.4670410156 35.3353805747,32.7442768961,239.5054931641 35.3355535772,32.7444467135,236.1409912109 35.3357425891,32.7443843521,234.2183837891 35.3357982449,32.7444022894,233.7376708984 35.336114997,32.7445463743,228.9311523438 35.3362355288,32.7446855977,226.0471191406 35.3364154883,32.7445516549,226.5278320312 35.3365920112,32.7442571986,226.0471191406 35.3367816098,32.7441058215,226.0471191406 35.3369025607,32.7440200746,226.0471191406 35.3372477274,32.7437992115,227.0085449219 35.3374370746,32.7436967008,227.4891357422 35.3376584407,32.743799882,227.9697265625 35.3377557546,32.7438686974,227.9697265625 35.3379559144,32.7439587191,227.9697265625 35.3380911984,32.7442219947,228.4504394531 35.3380829841,32.7444453724,227.4891357422 35.3381707426,32.7450248972,227.4891357422 35.3382667992,32.7451873384,227.4891357422 35.3382365406,32.7452896815,227.4891357422 35.3382306732,32.7455771808,227.4891357422 35.3379725944,32.7458129637,227.4891357422 35.3379314393,32.7458988782,227.0085449219 35.3379276674,32.746240776,229.4117431641 35.3379063774,32.7462421171,229.4117431641 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>J03: Cana to Lavi</name>
+				<styleUrl>#point0</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							35.3379554115,32.7462758962,242.3896484375 35.3379552439,32.7462817635,229.8923339844 35.3379016835,32.7463324741,230.8537597656 35.3379218839,32.7465212345,231.8149414062 35.338118691,32.7467068098,232.7764892578 35.3382900171,32.746982323,236.1409912109 35.3382906877,32.7470103186,237.1022949219 35.3383722436,32.7470459417,237.5828857422 35.3388631716,32.7470600232,241.4282226562 35.3390673548,32.7468487155,243.8315429688 35.3390628286,32.7467392478,243.8315429688 35.3390120342,32.7464734577,242.8702392578 35.3389951866,32.7462587133,245.2734375 35.3390374314,32.746180594,245.2734375 35.3392308019,32.7459525224,244.3122558594 35.3395704366,32.7459953539,247.6767578125 35.3399839997,32.7461054083,253.4447021484 35.3404590022,32.7463773172,256.8093261719 35.3405265603,32.7462913189,257.7707519531 35.3404650372,32.7459890675,258.7319335938 35.3404801246,32.7458874788,260.6545410156 35.3407723177,32.745927209,264.0192871094 35.3411696199,32.7459810209,269.787109375 35.3414116893,32.7459277119,272.1904296875 35.3415771481,32.7458972856,275.5550537109 35.3418287728,32.7458733972,277.9582519531 35.342132533,32.7458986267,281.3229980469 35.3422618657,32.7458824497,282.7650146484 35.3422811441,32.7459178213,282.2843017578001 35.3423436731,32.7458625846,282.7650146484 35.3426858224,32.745807264,284.6876220703 35.3431980405,32.7457957808,287.5714111328001 35.3433530219,32.7457286417,288.5329589844001 35.3439276014,32.7455287334,289.494140625 35.3440695908,32.7454527095,289.0135498047 35.3442391567,32.7453983948,289.0135498047 35.3444735985,32.7452482749,289.9748535156 35.3446828946,32.7452315949,290.9361572266001 35.3450154886,32.7451968938,293.8200683594 35.345071815,32.7450279985,294.7813720703 35.3452013992,32.7449282538,295.7426757812 35.3456719592,32.7448370587,299.1072998047 35.3458227497,32.7446875256,300.0687255859 35.3458732087,32.7446788084,300.0687255859 35.3459608834,32.7446628828,300.5493164062 35.3462234885,32.7446262538,301.0299072266001 35.3465920407,32.7446430176,302.4719238281 35.3466269933,32.7446435206,302.4719238281 35.3468627762,32.7445509844,304.3946533203 35.3471869044,32.7443764731,306.3172607422 35.3474816959,32.7442780696,307.7592773438001 35.3477450553,32.7441133652,310.1624755859 35.3477557003,32.7441017143,310.1624755859 35.3479482327,32.744015716,311.1237792969001 35.3481043037,32.7439295501,312.0852050781 35.3485146817,32.7437125426,314.0078125 35.349041149,32.7435489278,315.9304199219001 35.3493751679,32.7435406297,316.8917236328 35.3496236913,32.7434415556,317.3724365234 35.3498027287,32.7434423938,317.8530273438001 35.350112943,32.7434329223,318.8143310547 35.3503224067,32.7434225287,320.2563476562 35.3506653104,32.7434848063,322.6596679688 35.3509457689,32.7435837127,325.5435791016 35.3514428157,32.7436846308,327.9467773438001 35.3518503439,32.7438553702,329.3889160156 35.3520185687,32.7438849583,328.9083251953 35.3521572892,32.743911026,328.4276123047001 35.3522983566,32.7439486608,327.4661865234 35.3525818326,32.7439776622,325.0629882812 35.3527602833,32.7439215034,324.1015625 35.3530729283,32.7439787518,322.1789550781 35.3532721661,32.7440029755,320.7370605469 35.3537638485,32.7440339047,318.3336181641 35.3539202549,32.7440515067,318.3336181641 35.3544297908,32.7441304643,317.3724365234 35.3548804019,32.7441317216,318.3336181641 35.3550388198,32.7441631537,318.3336181641 35.355496807,32.744277399,319.2950439453001 35.3556741681,32.7443050593,319.7756347656 35.3560406249,32.7444369067,320.7370605469 35.3564749751,32.7444641478,321.6983642578001 35.3567012865,32.744540507,322.6596679688 35.3569492232,32.7445631381,323.1403808594 35.357194813,32.7445933968,324.5822753906 35.3574502934,32.7446232364,326.5048828125 35.357570909,32.7446390782,326.0241699219001 35.3578525409,32.7447335422,326.5048828125 35.3581200913,32.7448454406,326.5048828125 35.3583534434,32.7449609432,327.4661865234 35.3584877215,32.7450527251,327.4661865234 35.3585211653,32.7450512163,327.4661865234 35.3585538547,32.7450645436,327.4661865234 35.3587315511,32.7451447584,327.4661865234 35.3589404281,32.7452010848,328.4276123047001 35.3591522388,32.7452191897,329.8695068359 35.3594525624,32.7453771885,330.8309326172 35.3594948072,32.7454067767,330.8309326172 35.3596590925,32.7454289887,331.3115234375 35.3597992379,32.7454277314,331.3115234375 35.3599051014,32.7455283143,331.3115234375 35.3600092884,32.7455565613,331.3115234375 35.3602502681,32.7455574833,331.3115234375 35.360656539,32.7455772646,331.3115234375 35.3608032223,32.7455881611,332.2728271484 35.3610519134,32.7455842216,332.7535400391001 35.3611426055,32.745626634,333.2341308594 35.3613956552,32.7456931025,335.1567382812 35.361631019,32.7457304019,336.1181640625001 35.3616758622,32.7457699645,336.1181640625001 35.3619134892,32.7459380217,338.0407714844 35.3621907625,32.7460501716,339.9633789062 35.3623982985,32.7460676059,339.9633789062 35.3625706304,32.7461955976,340.4440917969001 35.3628038149,32.7462719567,343.3278808594 35.3628464788,32.7462316398,342.3666992188 35.3628517594,32.7462263592,341.4052734375 35.3631515801,32.7459834516,339.4826660156 35.3633454535,32.7459314,339.4826660156 35.3636654746,32.7458578069,339.0020751953 35.3640282433,32.7457540389,341.4052734375 35.3645628411,32.7455421444,342.3666992188 35.3649538569,32.7454193495,343.3278808594 35.365190981,32.7453137375,343.80859375 35.3652286157,32.7453698963,342.3666992188 35.3652712796,32.7452890109,342.8472900391001 35.3655338008,32.7452226263,341.8859863281 35.3659601044,32.7450405713,342.3666992188 35.3663659561,32.7448875178,343.80859375 35.3665734921,32.7448747773,344.7700195312 35.3670293838,32.7448300179,346.6926269531 35.3670344129,32.7448130026,346.6926269531 35.3670690302,32.7446503937,344.2894287109 35.367021421,32.744620638,343.3278808594 35.367032066,32.7446110826,343.3278808594 35.3673892189,32.7443939075,340.4440917969001 35.3676143568,32.7442556061,337.0794677734 35.367765734,32.7441103477,333.7147216797001 35.3681699932,32.7440183144,333.2341308594 35.3683191072,32.7439395245,332.7535400391001 35.3686507791,32.7437293064,330.8309326172 35.3689777572,32.7434727363,332.7535400391001 35.3690184932,32.7434318326,333.2341308594 35.3691410366,32.7434583195,335.1567382812 35.3691767436,32.743463181,336.1181640625001 35.3694898076,32.743495116,338.0407714844 35.3698874451,32.7432973869,335.6373291016 35.3702192008,32.7431807108,336.1181640625001 35.3704650421,32.7431529667,337.0794677734 35.3706743382,32.7431234624,338.0407714844 35.3709577303,32.7431303356,339.9633789062 35.3711997159,32.7431345265,341.4052734375 35.371617889,32.7431236301,344.2894287109 35.3718519956,32.7431293298,347.1732177734 35.3721608687,32.7431832254,350.5378417969001 35.3721657302,32.7431772742,350.0572509766 35.3723553289,32.7431600075,351.9798583984 35.372497486,32.7431085426,353.4218750000001 35.3726731706,32.7430517972,355.3444824219001 35.3729335126,32.7429876756,357.7478027344001 35.3731012344,32.7429769468,359.1896972656 35.3733433876,32.7429538127,361.5931396484 35.3735105228,32.7429326903,361.1124267578001 35.3737280332,32.743019443,362.0737304688001 35.3739979304,32.7432215307,365.4383544922001 35.3741476312,32.7433313336,366.3995361328 35.3743855096,32.7435119636,369.7642822266001 35.374665549,32.7435649373,371.2062988281 35.3748427425,32.7438045759,373.12890625 35.374993952,32.7439377643,374.0900878906 35.3751813713,32.7440643311,374.0900878906 35.3754251171,32.7440858725,373.6094970703001 35.3755867202,32.7441195678,373.6094970703001 35.3759796638,32.7442062367,373.12890625 35.3761366569,32.7442724537,372.6481933594 35.3762197215,32.7444957476,372.6481933594 35.376376044,32.7446346357,371.6868896484 35.3764301073,32.7446623798,371.6868896484 35.3766958974,32.7448487934,370.7255859375 35.3769075405,32.7451059502,370.7255859375 35.3771859035,32.7454979718,368.322265625 35.3773354366,32.7456814516,368.8029785156 35.3774666972,32.7459346689,365.4383544922001 35.3775822837,32.7462117746,361.1124267578001 35.3776158951,32.7462426201,361.1124267578001 35.3777314816,32.7465052251,358.7089843750001 35.377935078,32.746738242,355.8251953125 35.3779467288,32.7467440255,355.3444824219001 35.3780502453,32.7467962448,354.3831787109 35.3781109303,32.7468758728,354.3831787109 35.3781919833,32.7469484601,353.9025878906 35.3783359844,32.7470339555,354.3831787109 35.3785876092,32.747160187,353.4218750000001 35.3787412494,32.7472726721,351.4991455078 35.3788712528,32.7473289147,349.5765380859 35.3790403157,32.7474322636,346.2120361328 35.3791686427,32.7475367859,342.8472900391001 35.3794782702,32.7477907576,340.4440917969001 35.3794734087,32.7477956191,339.9633789062 35.379485311,32.7479301486,339.4826660156 35.3794674575,32.7482831106,343.3278808594 35.3793985583,32.7483858727,344.2894287109 35.3795117978,32.7483883873,345.2506103516001 35.379829891,32.7483479865,344.7700195312 35.3802658338,32.7482095174,344.2894287109 35.3805543389,32.7481940109,346.2120361328 35.3807788901,32.7481971961,346.2120361328 35.3811668046,32.7481000498,345.7313232422 35.3816542123,32.747881785,343.80859375 35.3816690482,32.7478800248,343.80859375 35.3819548711,32.747775251,342.3666992188 35.3819805197,32.747820178,341.4052734375 35.382171208,32.7480055857,340.9246826172001 35.3822880518,32.7481063362,339.0020751953 35.382526014,32.7483499143,336.1181640625001 35.3825231642,32.7486183029,334.6761474609 35.3825561889,32.7488717716,333.7147216797001 35.3826715238,32.7491852548,332.7535400391001 35.3827554267,32.7495343611,328.9083251953 35.3827822488,32.7495930344,328.4276123047001 35.3828746174,32.7497353591,326.0241699219001 35.3829672374,32.7498916816,323.6209716797001 35.3829373978,32.7501842938,320.7370605469 35.3828319535,32.7504055761,318.8143310547 35.3827967495,32.7506092563,315.4498291016 35.382681163,32.7510161139,313.5272216797001 35.3828055505,32.7512789704,312.5657958984 35.3829756193,32.751445435,310.6430664062 35.3831224702,32.7515522204,309.2011718750001 35.3831554949,32.7518091258,307.7592773438001 35.3831587639,32.7518137358,307.7592773438001 35.383086931,32.7519662865,309.6818847656 35.3829078097,32.7521975432,308.2398681641 35.3825493157,32.7522036619,309.6818847656 35.3824557737,32.7521723136,310.6430664062 35.3822106868,32.7523480821,309.6818847656 35.3820470721,32.7525151335,306.3172607422 35.381906759,32.7528031357,301.0299072266001 35.3818351775,32.7529157884,297.6654052734 35.3816239536,32.7530962508,292.8587646484 35.3815320879,32.7532342169,289.0135498047 35.3815293219,32.7533570956,286.6102294922001 35.3815472592,32.753367573,287.5714111328001 35.3816992231,32.7534710057,291.4167480469 35.3817142267,32.7534700837,291.4167480469 35.3818838764,32.7535183635,294.7813720703 35.382011449,32.7536244784,295.7426757812 35.3821282927,32.7537305094,296.2235107422 35.3822461423,32.753835367,295.7426757812 35.3825744614,32.7538407315,297.1846923828 35.3826423548,32.7538517956,297.1846923828 35.3827405907,32.7538782824,296.2235107422 35.3830301855,32.75398314,293.8200683594 35.3830479551,32.7539809607,293.8200683594 35.3833121527,32.7540250495,291.8974609375 35.3834966384,32.7541157417,289.9748535156 35.3835657891,32.7541900054,289.9748535156 35.3837861493,32.7542699687,291.8974609375 35.3839102853,32.7544201724,292.8587646484 35.3841043264,32.7545783389,295.7426757812 35.3841982037,32.7547909878,294.7813720703 35.3845026344,32.7549989428,292.8587646484 35.384622328,32.7551419381,288.0522460938 35.3847857751,32.755234139,282.7650146484 35.3849400021,32.7553383261,278.9196777344 35.3850809857,32.7554230671,276.5163574219 35.3850576002,32.7556345426,274.1130371094 35.3851851728,32.7558310144,269.3065185547 35.3851809818,32.7558512986,268.3450927734 35.3851141781,32.7559596766,266.9031982422 35.3851419222,32.7560208645,265.9418945312 35.3851166088,32.7562643588,262.0965576172 35.3850809857,32.756447671,258.7319335938 35.3849924728,32.7565743215,255.3673095703 35.3848809935,32.7567465696,252.0028076172 35.38484185,32.7568745613,248.6381835938 35.3847576957,32.7571413573,242.3896484375 35.3846219089,32.7575266734,237.1022949219 35.3844779916,32.7579055354,231.8149414062 35.3843621537,32.7581902687,228.4504394531 35.3841402847,32.7584807854,224.6052246094 35.3841717169,32.7586633433,222.6824951172 35.3841588087,32.7589817718,220.2791748047 35.384199461,32.7589883097,219.7985839844 35.3843278717,32.7590678539,220.2791748047 35.3848208953,32.7592480648,223.1632080078 35.3852849174,32.7593166288,225.0859375 35.3854702413,32.7593335602,225.0859375 35.3858345188,32.7593312133,225.0859375 35.3860299848,32.7593209036,225.0859375 35.3861254547,32.7593488153,226.0471191406 35.3861524444,32.7593619749,224.6052246094 35.3861205094,32.7596139349,222.6824951172 35.3861244489,32.7601606026,218.3565673828 35.3860931844,32.7607436478,215.47265625 35.3860587347,32.7611903194,212.1080322266 35.3858962096,32.7615235839,209.2241210938 35.3857835568,32.7617987618,206.8206787109 35.3856041841,32.7620853391,204.4174804688 35.385368485,32.7626097947,200.0916748047 35.3853331972,32.7626756765,200.0916748047 35.3853031062,32.7628581505,199.1301269531 35.385117447,32.763165012,200.572265625 35.3848696779,32.7635708638,201.0528564453 35.3847204801,32.763815783,201.5335693359 35.384475477,32.7641395759,202.4948730469 35.3839989658,32.7643498778,201.0528564453 35.3835803736,32.7645311784,199.6108398438 35.3830311075,32.7648756746,196.2463378906 35.3825164586,32.7653017268,197.2075195312 35.3823341522,32.765626274,196.2463378906 35.3819475789,32.7660570201,194.8043212891 35.3817855567,32.7662016079,193.8430175781 35.3816916794,32.7662063856,192.4011230469 35.3815915156,32.7662162762,191.9202880859 35.3814060241,32.7663319465,189.5169677734 35.3812783677,32.7665809728,185.1911621094 35.3813140746,32.7666474413,185.1911621094 35.381584391,32.7667688113,183.7490234375 35.3821044043,32.7669058554,183.7490234375 35.3825350665,32.7669864055,184.2298583984 35.3829997592,32.7671760041,184.2298583984 35.3835776914,32.7673377749,184.7105712891 35.3838326689,32.76738354,184.7105712891 35.3839433938,32.767391922,184.7105712891 35.3842177335,32.7674580552,184.2298583984 35.3845132794,32.7675571293,184.2298583984 35.3851248231,32.7677748073,183.2684326172 35.3854170162,32.7678805031,183.7490234375 35.3854727559,32.7678888012,183.7490234375 35.3858807869,32.7680140268,184.7105712891 35.3864141274,32.7680089138,187.1137695312 35.3864466492,32.7680045553,187.1137695312 35.3869631421,32.7678904776,189.5169677734 35.3876042739,32.767767515,191.4395751953 35.3882685397,32.7677988634,191.4395751953 35.3889607172,32.7678522561,191.4395751953 35.3893530741,32.7677158825,194.3237304688 35.3894489631,32.7676678542,194.3237304688 35.3897260688,32.7675192431,196.2463378906 35.3897352051,32.7675117832,196.2463378906 35.3901047632,32.7674486674,196.7269287109 35.3905100282,32.7676303871,196.2463378906 35.3909109347,32.7677252702,196.2463378906 35.3911846038,32.76780691,195.765625 35.3916871827,32.7678978536,195.2849121094 35.3918549884,32.7680637315,195.765625 35.3918500431,32.7680726163,195.765625 35.3919068724,32.7683342993,193.3623046875 35.3920606803,32.7684003487,191.9202880859 35.3923087008,32.7683366463,192.4011230469 35.3927200008,32.7682424337,193.3623046875 35.3929921612,32.7682196349,192.8817138672 35.393276643,32.7682856843,192.4011230469 35.3934072331,32.7683413401,191.9202880859 35.3939364664,32.7685226407,190.958984375 35.394115001,32.7685645502,190.4783935547 35.3945121355,32.768498417,189.9976806641 35.3946242854,32.7684667334,190.4783935547 35.3951054066,32.7682574373,190.4783935547 35.3956362326,32.7679975145,191.4395751953 35.39608391,32.7679035533,192.4011230469 35.3966123052,32.7678585425,192.8817138672 35.3970909119,32.7677519247,191.9202880859 35.3975052293,32.7676055767,192.8817138672 35.3978892881,32.7674137987,193.3623046875 35.3983252309,32.7671217732,194.3237304688 35.3988102917,32.7668915223,194.8043212891 35.399140371,32.7666936256,196.7269287109 35.3992429655,32.7666356228,196.7269287109 35.3995966818,32.7666158415,195.765625 35.3996514156,32.7666053642,195.765625 35.4005001672,32.7664725948,196.7269287109 35.4009646084,32.7664144244,196.2463378906 35.4015515093,32.7663438488,196.2463378906 35.4024207965,32.7661780547,197.6882324219 35.4028870817,32.7659996878,198.6495361328 35.403481191,32.765787458,199.6108398438 35.4042553436,32.765688384,201.5335693359 35.4048092198,32.7655936684,202.4948730469 35.4054639302,32.7655313909,202.4948730469 35.4059418663,32.765532732,202.9754638672 35.4068109859,32.7655129507,202.4948730469 35.4070872534,32.7654847037,202.9754638672 35.4072088748,32.7654894814,202.4948730469 35.4074369464,32.7654903196,202.9754638672 35.4078242742,32.765648989,202.9754638672 35.4080670979,32.7656794153,202.9754638672 35.4084918089,32.7657161281,202.0142822266 35.4084893782,32.7657167148,202.0142822266 35.4085218161,32.7659119293,199.6108398438 35.4083913099,32.7660750411,198.6495361328 35.4079404473,32.766217785,198.1689453125 35.4077204224,32.7664715052,198.1689453125 35.4077496752,32.7668220364,197.6882324219 35.4077783413,32.7671729866,196.2463378906 35.407798877,32.7673681173,195.765625 35.4078358412,32.7678794134,194.8043212891 35.407866016,32.7682819124,194.8043212891 35.4079253599,32.7686603554,193.8430175781 35.4081572872,32.7687411569,193.8430175781 35.4083826765,32.768758256,194.3237304688 35.4086300265,32.7687544003,193.8430175781 35.408749301,32.7688709088,194.3237304688 35.4088563379,32.7688984014,194.3237304688 35.408907719,32.7690017503,193.3623046875 35.4089061264,32.7691995632,192.8817138672 35.4089349601,32.7693403792,194.8043212891 35.4088457767,32.7693982143,194.3237304688 35.4086662363,32.7696546167,194.8043212891 35.4085373227,32.7697786689,193.3623046875 35.4085065611,32.7699981071,195.2849121094 35.4085208103,32.7700742986,195.2849121094 35.4085752089,32.7701416891,195.765625 35.4086306132,32.7704213932,196.7269287109 35.4085814115,32.7707218006,195.2849121094 35.4086058028,32.7708603535,195.2849121094 35.4085608758,32.7710792888,194.3237304688 35.4084203951,32.771058837,194.3237304688 35.4083043057,32.7710117307,193.8430175781 35.4081162997,32.7709378861,193.3623046875 35.4078912456,32.7709078789,192.4011230469 35.407868363,32.7710139938,192.4011230469 35.4081252683,32.7712284867,192.8817138672 35.4082411062,32.7713304106,192.8817138672 35.4086648114,32.7716094442,193.8430175781 35.4088513926,32.7717797644,194.8043212891 35.4091909435,32.7719049901,195.765625 35.409358833,32.7720997855,196.7269287109 35.4094148241,32.7723469678,196.2463378906 35.4095036723,32.772662295,196.7269287109 35.4096734058,32.7728361357,196.7269287109 35.4099336639,32.772974018,196.7269287109 35.4102877155,32.7732609306,197.2075195312 35.4106545076,32.7734920196,197.6882324219 35.4109093174,32.7736619208,197.6882324219 35.4109673202,32.7738329954,198.1689453125 35.4109678231,32.773875827,198.1689453125 35.4111320246,32.7739870548,197.6882324219 35.411475515,32.7742348239,197.6882324219 35.4118948616,32.7744976804,198.1689453125 35.4120717198,32.7745702676,198.1689453125 35.4122185707,32.7747761272,198.1689453125 35.4125069082,32.775005037,199.1301269531 35.4127462953,32.7751881815,199.1301269531 35.4128386639,32.7752992418,199.1301269531 35.4129526578,32.7755295765,199.6108398438 35.4130042065,32.7759464923,199.1301269531 35.4131824058,32.7762900665,200.572265625 35.4134298395,32.7763850335,201.0528564453 35.4138434026,32.776474217,202.0142822266 35.4139511939,32.7765924018,202.4948730469 35.4141213465,32.7769080643,203.9368896484 35.4140443169,32.7770171128,203.9368896484 35.4141242802,32.7771871816,202.9754638672 35.414100308,32.7775620203,202.4948730469 35.4141212627,32.7775961347,203.4561767578 35.4138406366,32.7777770162,204.4174804688 35.4135651235,32.7779036667,205.3787841797 35.4133756086,32.7779894974,207.3013916016 35.4133834876,32.7779835463,206.3400878906 35.413416177,32.7779603284,-144.0604248047 35.4134243075,32.7779619209,213.0693359375 35.4134242237,32.7779615857,213.0693359375 35.4134347849,32.7779647708,213.0693359375 35.4136367887,32.778080022,212.1080322266 35.4138239566,32.7782432176,211.6274414062 35.4140661098,32.7784310561,211.6274414062 35.4140081909,32.7784920763,212.1080322266 35.4139535408,32.7785215806,212.1080322266 35.4136427399,32.7787044737,213.0693359375 35.4134367965,32.7787364926,213.5500488281 35.4130435176,32.7787799109,214.9919433594 35.4128255881,32.778875716,215.9532470703 35.4126840178,32.7789728623,216.4339599609 35.4125426151,32.7790801506,217.3953857422 35.4123484064,32.7791011892,218.8372802734 35.4122555349,32.7791342977,219.3179931641 35.4120624159,32.7791814879,220.2791748047 35.4118183348,32.7793963999,224.1245117188 35.411596885,32.7795969788,228.4504394531 35.4113351181,32.7796358708,230.8537597656 35.4110970721,32.7796638664,231.8149414062 35.4108461179,32.7797049377,231.3343505859 35.4108597804,32.7797102183,232.7764892578 35.4110099841,32.7798169199,233.2570800781 35.4112157598,32.7799197659,232.7764892578 35.4112781212,32.7799342666,232.7764892578 35.4116290715,32.7800151519,231.3343505859 35.4117468372,32.7800353523,230.8537597656 35.4118086118,32.7800275572,230.373046875 35.4120004736,32.7800715622,229.4117431641 35.4121034034,32.7800903376,228.4504394531 35.412333319,32.7801400423,227.4891357422 35.4123973567,32.7801686246,227.4891357422 35.4126483109,32.7802264597,227.0085449219 35.4128095787,32.7803489193,226.0471191406 35.4129876103,32.780621415,226.0471191406 35.4132483713,32.7808481455,225.5665283203 35.4134733416,32.7809469681,224.1245117188 35.4135757685,32.7809865307,222.6824951172 35.4136401415,32.7809986006,222.6824951172 35.4141773377,32.7810479701,219.3179931641 35.4147921503,32.7810833417,218.3565673828 35.4149886221,32.7811670769,219.3179931641 35.4149953276,32.781185098,219.3179931641 35.4149542563,32.7813942265,220.2791748047 35.4149315413,32.7816567477,221.2406005859 35.41485711,32.7823667787,226.5278320312 35.4147609696,32.7828447148,230.373046875 35.4147110973,32.7832505666,233.7376708984 35.4147215746,32.7834197972,235.1796875 35.4147277772,32.7834258322,235.1796875 35.4151164461,32.7835150994,236.1409912109 35.4155758582,32.7836777922,236.1409912109 35.4160629306,32.7838966437,238.0635986328 35.4162884038,32.7842502762,240.4670410156 35.4165049922,32.7844198421,241.9089355469 35.4166080058,32.7846629173,244.7928466797 35.4167941678,32.7847727202,244.7928466797 35.4175362177,32.7850655839,244.3122558594 35.4178625252,32.7852137759,245.2734375 35.4183038324,32.7854457032,245.7541503906 35.4190108459,32.7856657282,247.1960449219 35.4196280893,32.7858586796,247.1960449219 35.4198735114,32.7860897686,248.1575927734 35.42030585,32.7862151619,248.1575927734 35.4208464827,32.7863781899,247.1960449219 35.4217220563,32.7867219318,245.2734375 35.4222451709,32.7870030608,244.3122558594 35.4228344187,32.7872574516,242.3896484375 35.4228479974,32.7872618102,242.3896484375 35.4233133607,32.7873207349,240.9476318359 35.4235600401,32.7874448709,240.9476318359 35.4239969887,32.7875896264,239.5054931641 35.4241021816,32.7874283586,239.5054931641 35.4241850786,32.78707196,239.5054931641 35.4243345279,32.7867113706,239.5054931641 35.4246611707,32.7864443231,239.5054931641 35.425166348,32.7862817142,238.5443115234 35.4255933221,32.7860394772,238.5443115234 35.426239064,32.7857437637,237.1022949219 35.4269418865,32.7856316138,234.2183837891 35.4274048191,32.7855540812,232.2957763672 35.4277142789,32.7852519974,231.8149414062 35.4281161912,32.7850033063,229.8923339844 35.4285896849,32.7848045714,228.4504394531 35.4289447423,32.7848069184,227.4891357422 35.4293867201,32.7849123627,227.0085449219 35.4295468982,32.7850094251,227.0085449219 35.4299112596,32.785225343,227.9697265625 35.4304944724,32.7855524886,230.373046875 35.4309213627,32.7858254872,232.7764892578 35.4311233666,32.7860273235,235.6602783203 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>J04: Lavi to Nebi Shu&apos;eib</name>
+				<styleUrl>#point0</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							35.4311233666,32.7860273235,235.6602783203 35.4309549741,32.7860290837,236.1409912109 35.4309249669,32.7860816382,236.1409912109 35.4308454227,32.786273919,235.6602783203 35.4307774454,32.7864542976,236.6217041016 35.430716509,32.786587989,236.6217041016 35.4306742642,32.7866702992,236.6217041016 35.430634534,32.7867687028,237.1022949219 35.4305341188,32.7869578823,237.5828857422 35.430429345,32.7871105168,237.1022949219 35.4303570092,32.7871981915,236.6217041016 35.4302246589,32.7873698529,234.6990966797 35.4301268421,32.7875211462,234.6990966797 35.4301144369,32.7875451185,235.1796875 35.4300749581,32.7876016125,235.6602783203 35.430003712,32.7877209708,235.6602783203 35.429905979,32.7878907043,235.1796875 35.4298806656,32.7879745234,235.6602783203 35.4297561944,32.7881792095,236.6217041016 35.4296615627,32.788379034,238.0635986328 35.4295736365,32.7885526232,240.9476318359 35.4294489976,32.7887067664,241.4282226562 35.429317737,32.7888300642,242.3896484375 35.4291844647,32.7889702935,242.8702392578 35.4290170781,32.7891346626,243.8315429688 35.4289727379,32.7891905699,243.8315429688 35.4289782699,32.789225271,243.8315429688 35.4290423915,32.7892524283,243.3508300781 35.4292220157,32.7892789152,242.8702392578 35.4293691181,32.789302133,240.9476318359 35.4293925036,32.7893087547,240.9476318359 35.4294687789,32.789322501,239.9862060547 35.429678075,32.7893555257,239.9862060547 35.4298802465,32.7893743012,239.9862060547 35.4299950786,32.7893732954,239.9862060547 35.4301196337,32.7893858682,240.4670410156 35.4301538318,32.7893992793,241.9089355469 35.430263048,32.7894060686,243.8315429688 35.4304155987,32.7894167975,246.7154541016 35.4306016769,32.7894409373,250.5607910156 35.4306130763,32.7894416079,250.5607910156 35.4306925368,32.7894342318,252.0028076172 35.4308232944,32.7894410212,252.9639892578 35.4309821315,32.7894196473,253.9254150391 35.4311257135,32.7894030511,259.2126464844001 35.4311651923,32.789403135,260.6545410156 35.431215819,32.789386455,262.0965576172 35.4312498495,32.7893694397,263.5385742188001 35.4313060921,32.7893499937,264.9805908203 35.4315007199,32.7892934158,267.8645019531 35.4316967726,32.7892495785,270.7484130859 35.4317597207,32.7892411128,270.7484130859 35.4318777379,32.7892022207,270.7484130859 35.431976309,32.7891474869,272.1904296875 35.4320038855,32.789139105,272.6711425781 35.4321547598,32.7890812699,275.0744628906 35.4322027881,32.7890519332,276.0356445312 35.4324193764,32.7889773343,278.4389648438001 35.4324281774,32.7889752388,278.4389648438001 35.4324858449,32.7889541164,278.9196777344 35.4325869307,32.7889112849,280.3616943359 35.4326388147,32.788889911,280.8424072266001 35.4327554908,32.7888690401,281.8035888672001 35.4328834824,32.7888234425,282.2843017578001 35.4330237955,32.7887693793,283.7261962891 35.433082385,32.7887713071,285.1682128906 35.4333160724,32.7890865505,281.3229980469 35.4334040824,32.7892530989,280.8424072266001 35.433492763,32.7894257661,279.4002685547 35.433550179,32.7895217389,278.9196777344 35.4336520191,32.7896349784,278.9196777344 35.4338613153,32.7898348868,279.4002685547 35.434017973,32.7898886986,279.880859375 35.4340952542,32.789877383,280.3616943359 35.43446959,32.7898942307,282.2843017578001 35.4348262399,32.7899163589,283.7261962891 35.4350538924,32.7899812348,284.6876220703 35.4352560639,32.7900074702,286.1295166016001 35.4354124703,32.7902756911,287.0908203125 35.4354166612,32.7905179281,287.0908203125 35.4355154,32.7907776833,288.0522460938 35.4357200023,32.7908492647,289.494140625 35.4360333178,32.7907144837,291.8974609375 35.4362080805,32.7905527968,292.3781738281 35.4365363158,32.79023638,293.8200683594 35.4365514871,32.7902521379,293.8200683594 35.4366466217,32.790338723,293.8200683594 35.4367999267,32.7905085403,293.8200683594 35.4369823169,32.7907009888,294.7813720703 35.4370727576,32.7907842211,294.3007812500001 35.4372386355,32.7909381129,294.7813720703 35.437581623,32.7913334873,294.7813720703 35.4380180687,32.7917847689,295.2619628906 35.4385088291,32.7923190314,294.7813720703 35.4389208835,32.7927542198,294.3007812500001 35.4391558282,32.7930101193,293.8200683594 35.4396494385,32.7935445495,292.8587646484 35.4401969444,32.7941435203,290.9361572266001 35.440361565,32.7943132538,290.4555664062 35.4405585397,32.7944881003,289.494140625 35.440830281,32.7946141642,289.0135498047 35.4412121605,32.7948177606,288.5329589844001 35.4412490409,32.7949591633,290.4555664062 35.4414038546,32.7951009851,289.9748535156 35.441505108,32.7952647675,288.5329589844001 35.4415964708,32.7954691183,286.6102294922001 35.4416743387,32.7956401091,286.1295166016001 35.4417463392,32.7958328929,283.7261962891 35.4417791963,32.7959279437,284.2069091797001 35.4418428987,32.7961115912,282.7650146484 35.4419180006,32.7962569334,282.7650146484 35.4420203436,32.7964467835,279.880859375 35.4421307333,32.7966455184,279.880859375 35.4422293883,32.7968535572,278.4389648438001 35.4423253611,32.7970465086,277.9582519531 35.4423852917,32.7971290704,276.9970703125 35.4424418695,32.79723024,275.5550537109 35.4424767382,32.7973477542,272.1904296875 35.4426375031,32.7974078525,271.7097167969001 35.4428038839,32.7974252868,271.7097167969001 35.4430158623,32.7974205092,270.2677001953 35.4432005156,32.7974156477,270.7484130859 35.4434148408,32.7974597365,269.787109375 35.4435481131,32.7974975388,269.787109375 35.4436860792,32.7975367662,269.3065185547 35.4439040087,32.7976113651,268.3450927734 35.4441410489,32.7976916637,269.3065185547 35.4443716351,32.7977725491,270.2677001953 35.4445603956,32.7978301328,270.7484130859 35.4447223339,32.797872629,271.2291259766 35.4449348152,32.7979317214,272.1904296875 35.4452083167,32.7980048116,272.6711425781 35.4454211332,32.7980463859,272.6711425781 35.4456339497,32.7980613057,273.1518554688 35.4458630271,32.798031969,274.59375 35.4460873269,32.7979948372,276.9970703125 35.4463193379,32.7979573701,277.4776611328001 35.4465174023,32.7978424542,278.9196777344 35.4466515128,32.7976712957,281.3229980469 35.4468127806,32.797522936,282.7650146484 35.4468361661,32.7975033224,282.7650146484 35.4469900578,32.7973736543,282.7650146484 35.4470018763,32.7973417193,282.7650146484 35.447011264,32.7973388694,283.7261962891 35.4470504913,32.7973623388,284.6876220703 35.4471081588,32.7973589022,284.2069091797001 35.4472959973,32.7975961939,272.1904296875 35.4475618713,32.7976040728,272.1904296875 35.4478418268,32.7975830343,272.6711425781 35.4478997458,32.7975784242,272.1904296875 35.4481097125,32.7975636721,272.6711425781 35.448622182,32.7975008916,272.1904296875 35.4490749724,32.7974183299,272.6711425781 35.4497940559,32.7973147295,273.1518554688 35.4498271644,32.7973129693,272.6711425781 35.4500105605,32.7976277936,271.7097167969001 35.4501899332,32.7981400117,268.8258056641 35.4503874108,32.7987394016,265.9418945312 35.4506635107,32.7990742587,264.4998779297 35.4510531016,32.7992889192,264.9805908203 35.4514176305,32.7994606644,264.4998779297 35.4515197221,32.7994427271,265.4613037109 35.4516715184,32.799369134,265.4613037109 35.4520629533,32.7992389631,266.4224853516 35.4521901067,32.7992663719,265.9418945312 35.4522254784,32.7992652822,265.9418945312 35.4523524642,32.7993067726,264.9805908203 35.4526222777,32.7993570641,264.0192871094 35.452829143,32.7992599178,264.4998779297 35.4530710448,32.7989950497,266.9031982422 35.453162659,32.7988815587,267.3839111328001 35.453523919,32.7985572629,270.2677001953 35.453780992,32.7985493001,271.2291259766 35.4544733372,32.7985420916,273.6324462891 35.4545401409,32.7985307761,273.6324462891 35.4546113871,32.7985396609,274.1130371094 35.4548715614,32.798556257,275.0744628906 35.4550801031,32.7985772956,276.0356445312 35.4554841947,32.7986852545,278.4389648438001 35.4559679981,32.798793884,280.8424072266001 35.4561702535,32.7988710813,282.2843017578001 35.4563592654,32.7989705745,283.2456054688 35.4566534702,32.7991281543,284.6876220703 35.4571293946,32.7992329281,288.0522460938 35.4571559653,32.7992408909,288.0522460938 35.4574150499,32.7992173377,289.9748535156 35.4576157127,32.7992201038,291.4167480469 35.4576776549,32.7991656214,291.4167480469 35.4578453768,32.7991227061,293.3393554688 35.4583052918,32.7989079617,296.2235107422 35.4583896138,32.7988580056,295.7426757812 35.4584793001,32.7985412534,295.7426757812 35.4583865125,32.7979784925,294.7813720703 35.4583618697,32.7975638397,294.3007812500001 35.4585242271,32.7974033263,294.3007812500001 35.458950866,32.7973055933,294.3007812500001 35.4593088571,32.7972169127,294.3007812500001 35.4594581388,32.7971999813,293.3393554688 35.4594948515,32.7972360235,294.3007812500001 35.4595118668,32.7973319963,296.2235107422 35.4595619068,32.7974302322,300.5493164062 35.4596457258,32.7975892369,304.8752441406 35.4597460572,32.7977120318,309.6818847656 35.459743375,32.7978312224,314.9691162109 35.4598157108,32.7980107628,319.7756347656 35.4598625656,32.7980894689,323.1403808594 35.4598825984,32.7981731202,323.1403808594 35.4599635676,32.7982423548,323.1403808594 35.46011067,32.7984308638,319.7756347656 35.4603198823,32.7985752001,317.3724365234 35.4603605345,32.7987163514,315.4498291016 35.460399678,32.7987684868,314.0078125 35.4604706727,32.798880972,310.6430664062 35.4603531584,32.7989953011,309.6818847656 35.4602399189,32.799168136,307.7592773438001 35.4604029469,32.7993011568,308.2398681641 35.460591875,32.7994811162,307.7592773438001 35.4605932999,32.7994882409,307.2785644531 35.4605962336,32.7997639216,308.7204589844 35.4606605228,32.7999215852,308.7204589844 35.4606088065,32.8001207393,308.7204589844 35.4605416674,32.8002073243,309.6818847656 35.4604141787,32.800309835,310.6430664062 35.4602744523,32.8004394192,310.6430664062 35.4600359034,32.8006258328,312.0852050781 35.4599106777,32.8007451911,310.1624755859 35.4597408604,32.800793387,311.6044921875001 35.4596745595,32.8008394875,311.6044921875001 35.4594774172,32.8009566665,314.4884033203 35.4592936859,32.8011016734,317.8530273438001 35.4591460805,32.8011767752,321.2177734375 35.4591401294,32.8011749312,319.7756347656 35.4590811208,32.8011191078,302.9525146484 35.4591341782,32.8011604305,315.9304199219001 35.4591342621,32.8011569101,319.7756347656 35.4591346812,32.80115976,319.7756347656 35.4590797797,32.8012576606,317.3724365234 35.4588344414,32.8013611771,316.4110107422 35.4586492013,32.8014218621,314.9691162109 35.4583553318,32.8015475068,314.9691162109 35.4582275078,32.801626632,311.6044921875001 35.4581781384,32.8016884904,307.2785644531 35.4580112547,32.8016946092,302.4719238281 35.4578947462,32.8017258737,297.6654052734 35.4577769805,32.8017017338,292.3781738281 35.457626693,32.8016739897,286.1295166016001 35.457467353,32.8016968723,280.3616943359 35.4573716316,32.8017204255,276.9970703125 35.4572576378,32.8017375246,272.6711425781 35.4571081046,32.8017770033,270.7484130859 35.4568341002,32.8017691243,266.9031982422 35.4566606786,32.8017865587,264.9805908203 35.4563899431,32.8018434718,262.0965576172 35.4560244922,32.8019576333,259.693359375 35.4556332249,32.8021225054,256.3287353516 35.4552996252,32.8022657521,253.9254150391 35.4550775886,32.8023424465,250.5607910156 35.4549982119,32.8023821767,248.6381835938 35.4546935298,32.8025412653,245.2734375 35.4544238001,32.8026638925,243.3508300781 35.4542984068,32.8029177804,239.5054931641 35.4542590957,32.8029518109,239.5054931641 35.4541591834,32.8030626196,238.5443115234 35.4541578423,32.8031024337,237.1022949219 35.4539984185,32.8033879213,237.5828857422 35.4536840133,32.8036397137,239.5054931641 35.4536245856,32.8037620895,239.9862060547 35.4536063969,32.8038854711,239.5054931641 35.4535670858,32.8039384447,239.9862060547 35.4534453806,32.8040578868,242.8702392578 35.4532028083,32.8040532768,244.3122558594 35.453108428,32.8041929193,241.9089355469 35.453095017,32.8043053206,238.0635986328 35.4531384353,32.80436676,235.1796875 35.4533890542,32.804356534,232.7764892578 35.4534970131,32.8043553606,229.4117431641 35.453795325,32.804274559,224.6052246094 35.4540544935,32.8041893151,218.3565673828 35.4542475287,32.8041198291,214.9919433594 35.454354398,32.8042771574,208.7434082031 35.4544244707,32.8043326456,204.8980712891 35.4545829725,32.8043797519,200.0916748047 35.4545772728,32.804386206,199.6108398438 35.4545510374,32.804521909,196.7269287109 35.4545369558,32.804657612,192.8817138672 35.4545012489,32.804787783,189.5169677734 35.4544934537,32.8048179578,189.0363769531 35.4545247182,32.8048897907,185.6717529297 35.4545921087,32.8050266672,181.3458251953 35.4546256363,32.8051039483,177.5006103516 35.45474994,32.8052228875,172.2132568359 35.4547591601,32.8052243125,172.2132568359 35.4548103735,32.8052719217,170.2906494141 35.4547931068,32.8052828182,170.7713623047 35.454623457,32.8053867538,168.3680419922 35.4543522187,32.8055733349,163.0808105469 35.4543198645,32.8055921104,162.1195068359 35.4541559145,32.8057311662,158.2741699219 35.4540835787,32.8058262169,154.4289550781 35.4540518112,32.8059001453,151.544921875 35.4540693294,32.8060516901,150.5836181641 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>J05/06 to Sha</name>
+				<styleUrl>#path0Style2</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							35.4835860338,32.8134098276,41.95471191410001 35.4839927237,32.8138048667,43.8773193359 35.4841257446,32.8143677954,43.39660644530001 35.4840156902,32.8151214961,36.6674804688 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>J05: Nebi Shu&apos;eib to Moshav Arbel</name>
+				<styleUrl>#path0Style2</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							35.4540042859,32.8060467448,139.0478515625 35.4540105723,32.8060479183,138.5672607422 35.4544227943,32.8058713116,142.8930664062 35.4545309208,32.8059151489,131.837890625 35.4545197729,32.8059048392,133.2799072266 35.4545107204,32.8059060965,134.2412109375 35.4545118101,32.8059065156,127.5119628906 35.4544921126,32.8059062641,131.837890625 35.4544513766,32.8059205133,131.3572998047 35.4543965589,32.8059073538,131.837890625 35.4544231296,32.8058941942,131.837890625 35.4544634465,32.8059618361,129.9152832031 35.4545050208,32.8059924301,129.9152832031 35.4545498639,32.8060018178,129.4346923828 35.4545693938,32.8060363512,127.0313720703 35.4545977246,32.8060465772,126.5506591797 35.4545931984,32.8060851339,125.1087646484 35.4546215292,32.8061150573,124.6280517578 35.4546328448,32.8061446454,124.1473388672 35.454656817,32.8061921708,122.2247314453 35.454738792,32.8062056657,121.744140625 35.4548363574,32.8062259499,121.2635498047 35.4548878223,32.8062285483,119.8214111328 35.4550578911,32.8061862197,119.3408203125 35.4551235214,32.8061977029,117.8988037109 35.455167694,32.8062495869,116.4567871094 35.4553011339,32.8062603995,115.0148925781 35.4554207437,32.8062293865,114.0535888672 35.4554312211,32.8061932605,114.0535888672 35.4555298761,32.8062355891,113.0922851562 35.455568349,32.8062869702,111.1695556641 35.4555948358,32.8063345794,110.6888427734 35.4556430317,32.8063445538,109.7276611328 35.4556613881,32.8063460626,109.7276611328 35.4557192232,32.8063689452,107.8050537109 35.4558583628,32.8064168058,108.7662353516 35.4558895435,32.8064282052,109.7276611328 35.456020385,32.8064355813,112.1309814453 35.4561092332,32.8064417001,114.0535888672 35.456226496,32.8064558655,117.4182128906 35.4562251549,32.8065192327,119.3408203125 35.4562211316,32.8065261059,122.2247314453 35.4562259093,32.8065431211,123.1861572266 35.4563373886,32.8065768164,123.1861572266 35.4564224649,32.8065889701,123.1861572266 35.4565580003,32.8065903112,122.2247314453 35.4567454197,32.8065814264,122.7054443359 35.4569810349,32.8066311311,123.1861572266 35.4570200108,32.8066555224,121.744140625 35.4572188295,32.8066931572,122.7054443359 35.4572601523,32.8067012876,123.1861572266 35.457285298,32.80665108,124.6280517578 35.4572983738,32.8065857012,126.5506591797 35.4573418759,32.8065067437,126.0699462891 35.4575054068,32.8064660914,126.5506591797 35.4576948378,32.8064282052,126.0699462891 35.4577048123,32.8064044844,126.5506591797 35.4577260185,32.8064017184,126.0699462891 35.4577624798,32.8064220026,107.3243408203 35.4577468056,32.8064355813,0 35.4573669378,32.806676561,0 35.4568338487,32.8067778144,0 35.4561050422,32.8068101685,0 35.4553319793,32.8068704344,0 35.4547330085,32.806849815,0 35.4537366517,32.8068655729,0 35.4536981788,32.8070302773,0 35.4542472772,32.807008652,0 35.4545322619,32.807111498,0 35.4545442481,32.8074466065,0 35.4545237124,32.8078926075,0 35.4544999078,32.8083109483,0 35.4541058745,32.8087592963,0 35.4536757153,32.8090948239,0 35.453430796,32.8091768827,79.92663574220002 35.4529360961,32.8089772258,79.92663574220002 35.4522042722,32.8087145369,78.96545410160002 35.4521831498,32.8087136988,124.1473388672 35.4521777853,32.8087145369,128.4733886719 35.4521764442,32.8087123577,131.837890625 35.4521821439,32.8087102622,136.1639404297 35.4521817248,32.8087138664,139.5284423828 35.4521787912,32.8087168001,144.3352050781 35.4521736782,32.8087216616,149.1416015625 35.4521713313,32.8087198175,154.4289550781 35.4521624465,32.8087153751,162.1195068359 35.4521567468,32.8086959291,167.4067382812 35.4521358758,32.8086922411,173.1746826172 35.4522054456,32.8087170515,90.5013427734 35.4521891847,32.8087176383,90.5013427734 35.4517840035,32.808685787,90.5013427734 35.4515074007,32.808705233,91.4625244141 35.4510202445,32.8087469749,90.98193359379999 35.450384561,32.8088480607,90.5013427734 35.4497833271,32.8089327179,88.57873535160002 35.4493671656,32.8090730309,87.61718750000001 35.4491456319,32.8091688361,86.17529296879999 35.4487792589,32.8093348816,85.21398925779999 35.4485792667,32.8094745241,83.77197265620002 35.4481148254,32.80974878,81.3687744141 35.4476166051,32.8100091219,77.52343750000001 35.4473576043,32.8101206012,76.5621337891 35.4470406007,32.8102644347,74.63952636720002 35.4463866446,32.810577834,72.71691894529999 35.4460227024,32.8107479028,71.27490234379999 35.4460274801,32.8107815981,70.79418945310002 35.4461144004,32.8109990247,68.3908691406 35.4462682921,32.8113412578,65.50708007810002 35.4464487545,32.8117208742,62.6229248047 35.446650004,32.8122513648,59.2584228516 35.4467802588,32.8126139659,57.3358154297 35.4469025508,32.8129504994,54.9323730469 35.4469980206,32.8133491427,51.0871582031 35.4474224802,32.8140205331,47.7225341797 35.4479808826,32.8143894207,44.3580322266 35.4485546239,32.8147488367,43.39660644530001 35.4488920793,32.8150453046,40.9934082031 35.4492663313,32.8151393496,40.0321044922 35.4495844245,32.8155962471,37.14807128910001 35.4498967342,32.8160570841,34.2641601562 35.4501653742,32.8162823059,32.822265625 35.4507131316,32.8164732456,30.4188232422 35.4512623139,32.8167021554,28.0155029297 35.4512708634,32.8167082742,28.0155029297 35.4518585186,32.8168875631,26.5736083984 35.4520647135,32.8169552051,26.0928955078 35.4524604231,32.8171826899,24.1702880859 35.4530811869,32.8174129408,22.7282714844 35.4534033034,32.8176710196,21.2863769531 35.4535805807,32.8178359754,20.3249511719 35.453698514,32.818149291,18.40234375 35.4539172817,32.8185808752,16.9604492188 35.454255743,32.818849599,15.0377197266 35.4544484429,32.8190169856,14.5570068359 35.4550387803,32.8196520824,11.1925048828 35.4556359071,32.8202597704,7.8278808594 35.4561606143,32.820586497,6.8664550781 35.4563576728,32.8209731542,4.4632568359 35.4568507802,32.8215128649,1.5793457031 35.4573961906,32.8221088182,-1.3046875 35.4578045569,32.8229272272,-3.7078857422 35.4577956721,32.8230475914,-4.6693115234 35.4576886352,32.82325387,-6.1112060547 35.4575406946,32.8237933293,-10.4372558594 35.4575908184,32.8239576146,-11.3984375 35.4576471448,32.8240381647,-12.3598632812 35.4576669261,32.8240590356,-12.3598632812 35.4577710293,32.8242202196,-12.8404541016 35.4579919763,32.8246561624,-15.2436523438 35.4580049682,32.8250284865,-17.1663818359 35.4578750487,32.82527701,-16.20520019530001 35.4577736277,32.8254429717,-15.2436523438 35.457784608,32.8257568739,-17.6470947266 35.4578599613,32.8259504121,-19.5697021484 35.4578589555,32.8259720374,-19.5697021484 35.4578398447,32.8262266796,-21.0115966797 35.4578390904,32.8262379952,-21.49230957030001 35.4580108356,32.8264028672,-22.4536132812 35.4582448583,32.8264367301,-23.89562988280001 35.4587983154,32.8266399913,-26.2989501953 35.4591475055,32.8266813979,-27.7409667969 35.4591877386,32.8266969044,-27.7409667969 35.4592692945,32.8266862594,-27.7409667969 35.4592946917,32.8266905341,-27.7409667969 35.4599955864,32.8266183659,-29.6635742188 35.4602768831,32.8265175316,-30.6247558594 35.4606469441,32.8262680024,-32.0668945312 35.4608466849,32.8261589538,-31.5861816406 35.4611668736,32.826039847,-31.10546875 35.4615290556,32.8256891482,-33.5089111328 35.4616237711,32.8256614879,-33.98950195310001 35.4618134536,32.8256713785,-33.98950195310001 35.4623156972,32.8257159702,-35.43151855470001 35.4627360497,32.8257042356,-36.8734130859 35.4630392231,32.8257792536,-37.3541259766 35.4632101301,32.8258126974,-37.8347167969 35.463233348,32.8258211631,-37.8347167969 35.4633491859,32.8258026391,-38.31530761720001 35.4638152197,32.8256669361,-39.2767333984 35.4642040562,32.825680431,-39.2767333984 35.4643682577,32.8257172275,-39.2767333984 35.4646541644,32.8256759048,-40.71875 35.4648632929,32.8256703727,-41.1994628906 35.4649953917,32.8256745636,-41.6800537109 35.4652879201,32.825871706,-42.1606445312 35.4655062687,32.8262370732,-44.08325195310001 35.4657523613,32.8263638075,-42.6413574219 35.465901643,32.8264407534,-40.2380371094 35.4659308959,32.8264361434,-40.2380371094 35.4663913976,32.8263344709,-39.7573242188 35.4665587842,32.8262612969,-40.71875 35.4668533243,32.8259543516,-45.0446777344 35.467058178,32.8256588895,-48.40930175780001 35.4672551528,32.8254212625,-50.3319091797 35.467380546,32.8253713902,-49.8511962891 35.4675077833,32.8251756728,-49.3706054688 35.4675596673,32.8246991616,-51.7738037109 35.4675761797,32.8246175218,-52.25451660160001 35.4676903412,32.8244317789,-52.73522949220001 35.4676023312,32.8242436051,-52.73522949220001 35.4676104616,32.8241657373,-52.73522949220001 35.4676562268,32.8240131866,-52.73522949220001 35.4676277284,32.8237784095,-53.21582031250001 35.4679406248,32.8236666787,-47.44787597660001 35.4679114558,32.8237015475,-52.25451660160001 35.4676220287,32.8236210812,-53.21582031250001 35.4676304944,32.8236021381,-53.21582031250001 35.4676066898,32.8233932611,-52.25451660160001 35.4674814641,32.823064439,-52.25451660160001 35.4672801308,32.8226119839,-52.25451660160001 35.4671483673,32.8219214827,-51.7738037109 35.4671626166,32.821857864,-51.29321289060001 35.4672992416,32.821509596,-53.21582031250001 35.4672844894,32.8214539401,-52.73522949220001 35.4672656301,32.8213935904,-53.21582031250001 35.4674136546,32.8211998008,-53.69641113280001 35.4676953703,32.8210183326,-54.1771240234 35.467864098,32.8208920173,-53.69641113280001 35.4681556206,32.8206883371,-53.69641113280001 35.4684970994,32.8205113113,-57.06115722660001 35.4688911326,32.8202690743,-60.90637207030001 35.4691324476,32.8203014284,-63.30957031250001 35.4695841484,32.8202278353,-65.71301269529999 35.4696915206,32.8202480357,-65.23229980470001 35.4698803648,32.8202240635,-65.23229980470001 35.4705484025,32.8199372347,-66.67431640620001 35.470699193,32.8199011926,-66.67431640620001 35.4709782265,32.819877388,-67.63562011720002 35.4712776281,32.8200146835,-68.5969238281 35.4714430869,32.8201121651,-68.5969238281 35.471712565,32.8200720996,-70.03894042970001 35.4719203524,32.8198208939,-71.4808349609 35.471955305,32.8198007774,-71.9615478516 35.4722782597,32.8197214846,-71.9615478516 35.4727527592,32.8196896333,-72.9228515625 35.4731235746,32.8196901362,-73.88427734379999 35.4733342119,32.8197089117,-74.8454589844 35.4736186936,32.8197401762,-75.8068847656 35.4738474358,32.8197662439,-76.2874755859 35.4742273036,32.8197732847,-77.24877929690001 35.4745118693,32.8198120091,-78.6906738281 35.4751589522,32.8197369911,-80.13281250000001 35.4753997643,32.8195806686,-79.6520996094 35.4759484436,32.8192693647,-82.53601074220002 35.4762070253,32.8190934286,-83.4974365234 35.4764717259,32.8189446498,-85.42004394529999 35.4767173994,32.8188714758,-84.93933105470001 35.4773348104,32.8187626787,-87.8232421875 35.4776533227,32.8187763412,-88.78466796879999 35.4781067837,32.8186076134,-88.78466796879999 35.4784861486,32.8184794541,-88.78466796879999 35.4786937684,32.8184229601,-90.22656250000001 35.478944052,32.8183181863,-90.22656250000001 35.4789630789,32.8182384744,-90.22656250000001 35.4792084172,32.8183413204,-128.6793212891 35.4789217561,32.8183390573,-90.7072753906 35.4788929224,32.8182284161,-88.78466796879999 35.4788768291,32.8182222974,-89.26538085940001 35.4786891583,32.8182112332,-87.8232421875 35.4785340931,32.818218274,-86.8619384766 35.4783293232,32.8181709163,-84.45861816410002 35.4781669658,32.8179630451,-81.09411621090001 35.4781082924,32.817948712,-81.09411621090001 35.4778946377,32.817496676,-74.8454589844 35.4777007643,32.8173295408,-71.4808349609 35.4776000138,32.8171843663,-67.63562011720002 35.4775857646,32.8171329014,-67.63562011720002 35.4773921426,32.8168601543,-62.82897949220001 35.4773522448,32.8167457413,-59.4643554688 35.4773381632,32.8166433144,-56.5805664062 35.4773146939,32.8165382892,-53.21582031250001 35.4772438668,32.8163729981,-49.3706054688 35.4771076608,32.8161026817,-43.60266113280001 35.4768518452,32.8159763664,-40.2380371094 35.4766509309,32.8158679046,-36.8734130859 35.4765098635,32.8157363087,-34.4700927734 35.4764392041,32.8156639729,-31.10546875 35.4763986357,32.8155609593,-28.2215576172 35.4763978813,32.8155571036,-28.2215576172 35.4764255416,32.815389717,-24.3763427734 35.4767108615,32.8152488172,-20.5310058594 35.4771317169,32.815077072,-16.6857910156 35.4773529153,32.8149261978,-13.3210449219 35.4774665739,32.8148077615,-9.475830078100001 35.4777079728,32.8146408778,-5.149902343800001 35.4778353777,32.8145862278,-4.1885986328 35.4778456874,32.814398054,-0.8240966797 35.4778029397,32.8142563999,2.5406494141 35.4777953122,32.8139515501,8.789184570300002 35.4777678195,32.8138948046,10.7117919922 35.4775432684,32.8138570022,14.5570068359 35.4772152845,32.8138326947,16.9604492188 35.4764790181,32.8138563316,18.8830566406 35.476281289,32.8139717504,17.4411621094 35.4762571491,32.8139721695,17.4411621094 35.4762024991,32.8139592614,17.9217529297 35.4758543149,32.813786678,20.3249511719 35.4758771975,32.8136473708,23.208984375 35.4758736771,32.8136322834,16.9604492188 35.4758766107,32.813632451,23.6895751953 35.4758935422,32.8136414196,23.208984375 35.476286402,32.8137196228,21.2863769531 35.4770207405,32.8137193713,20.8056640625 35.477251159,32.8137054574,18.8830566406 35.4775651451,32.8137189522,18.40234375 35.4778434243,32.8137190361,16.4797363281 35.4781003296,32.8137161024,15.5184326172 35.4787946865,32.8138285037,14.5570068359 35.4793021269,32.8140549827,14.0764160156 35.4800310172,32.8144465853,13.5958251953 35.4805843905,32.8146957792,15.9990234375 35.4808330815,32.8148673568,17.4411621094 35.4813846108,32.815207243,21.2863769531 35.4821457714,32.8157080617,20.3249511719 35.4822699074,32.8157363087,18.8830566406 35.4824140761,32.815600941,20.8056640625 35.4826446623,32.8155377414,21.7669677734 35.4828973766,32.8153576143,26.5736083984 35.4830070958,32.8153234161,28.4962158203 35.4834283702,32.8151870426,32.822265625 35.4835904762,32.8152014595,33.7834472656 35.4837482236,32.8152193129,34.2641601562 35.4840360582,32.8151170537,36.1867675781 35.4840501398,32.8151200712,36.6674804688 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>J06: Moshav Arbel to Wadi Hamam</name>
+				<styleUrl>#path0Style2</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							35.4840501398,32.8151200712,36.6674804688 35.4841252416,32.8152471408,36.1867675781 35.4842360504,32.8154794872,34.7448730469 35.4843254853,32.815549979,34.7448730469 35.4844839871,32.8156694211,35.7060546875 35.4845673032,32.8157261666,35.7060546875 35.4849294852,32.8159259073,37.6286621094 35.4849649407,32.8159439284,38.109375 35.485270964,32.8160991613,38.109375 35.485460395,32.8162526339,40.0321044922 35.4858001135,32.8164543863,40.9934082031 35.4857905582,32.8164599184,40.0321044922 35.4861507285,32.8166098706,39.0706787109 35.4863165226,32.8167582303,38.109375 35.486576613,32.8168341704,38.5900878906 35.4871151503,32.8170215059,43.39660644530001 35.4875096865,32.8171246033,47.7225341797 35.4879062343,32.8172445484,52.0485839844 35.4881820828,32.8173318878,55.41308593750001 35.4886244796,32.817516122,59.73913574220001 35.4889590014,32.8177265078,64.5456542969 35.4893150646,32.8179239854,69.3522949219 35.4894080199,32.8181823995,73.19763183590001 35.4896101914,32.8183707409,77.04284667970001 35.4896890651,32.8183912765,77.04284667970001 35.4898862075,32.8185636085,79.4460449219 35.4898912366,32.8185713198,79.4460449219 35.4901504051,32.8187631816,82.330078125 35.4903506488,32.8189899959,86.17529296879999 35.4904203024,32.81903442,86.17529296879999 35.490665976,32.8191717155,88.57873535160002 35.4908907786,32.8192808479,90.5013427734 35.4912062734,32.8194595501,93.38513183590001 35.4913374502,32.8195514996,94.82714843750001 35.491495952,32.8196131065,95.7884521484 35.4919397738,32.8197631426,99.15307617190001 35.4923224077,32.8199291043,102.5177001953 35.4923858587,32.8199548367,102.5177001953 35.4926709272,32.8201220557,105.4017333984 35.4928962328,32.8202707507,106.8436279297 35.4931927845,32.8205222078,110.2082519531 35.493551949,32.8207480162,113.5729980469 35.4939890653,32.8210690431,118.3793945312 35.4939982854,32.821081616,118.3793945312 35.4943533428,32.8213362582,121.2635498047 35.4943874571,32.8213287145,121.2635498047 35.49460195,32.8214434627,122.7054443359 35.49479465,32.8214972746,127.0313720703 35.4950258229,32.8216139507,127.5119628906 35.4950667266,32.8216146212,126.5506591797 35.495143421,32.8217002843,128.9541015625 35.4952662159,32.8217126057,128.9541015625 35.4956543818,32.8217276931,130.8767089844 35.4960381892,32.8217115998,133.2799072266 35.4960932583,32.8217336442,133.2799072266 35.4962428752,32.8218615521,140.4898681641 35.4962381814,32.8218644019,132.7993164062 35.4966361541,32.8220391646,136.6446533203 35.496649649,32.8220433556,136.6446533203 35.4967448674,32.8221755382,138.5672607422 35.4968958255,32.8224718384,141.9317626953 35.4972043633,32.8228144906,145.2963867188 35.4974872526,32.8230392933,147.6997070312 35.4976279009,32.8234030679,151.544921875 35.4977455828,32.8235468175,153.9483642578 35.4977726564,32.8235797584,152.9869384766 35.4980060924,32.8237453848,155.8709716797 35.4981143866,32.8239104245,158.7547607422 35.49819896,32.8239309601,161.158203125 35.4983002972,32.8239544295,165.0034179688 35.4984004609,32.8240131028,164.5227050781 35.4985930771,32.8241240792,167.8873291016 35.498646386,32.8243165277,168.8487548828 35.4986470565,32.8243622091,169.3294677734 35.4986677598,32.8243604489,169.8100585938 35.4991097376,32.824484501,172.6939697266 35.499216523,32.8245519754,176.05859375 35.4993473645,32.8246212937,175.5778808594 35.4994932935,32.8246472776,176.05859375 35.4994941317,32.824609559,174.1358642578 35.499491198,32.8246068768,177.5006103516 35.4996937886,32.8245450184,174.1358642578 35.4997406434,32.8245380614,173.6552734375 35.5001038313,32.824688768,173.1746826172 35.5003566295,32.8246794641,169.8100585938 35.5005778279,32.824656833,165.4841308594 35.5007749703,32.8245829046,161.6389160156 35.500884857,32.8245947231,159.7161865234 35.5010999367,32.8245871793,154.9095458984 35.5012384057,32.8245936334,149.6223144531 35.5013292655,32.8245802224,143.8543701172 35.5014237296,32.8245844971,137.6058349609 35.5015956424,32.8244757839,131.837890625 35.5016182736,32.8244917933,128.4733886719 35.5016316846,32.8245204594,125.1087646484 35.5017403141,32.8244874347,119.3408203125 35.5019998178,32.8243832476,113.0922851562 35.5021148175,32.8243783861,106.8436279297 35.5022124667,32.8243658971,103.4790039062 35.5022035819,32.8242965788,100.1145019531 35.5022283085,32.8243025299,96.74987792970002 35.5022466648,32.8243491333,93.38513183590001 35.5022138916,32.8244418371,87.61718750000001 35.5022117961,32.8244931344,84.2526855469 35.5022031628,32.8245636262,78.48474121090001 35.5021857284,32.8246383928,76.0814208984 35.5021459144,32.8246906959,77.04284667970001 35.5020109657,32.8247165121,80.40747070310002 35.501877442,32.8247529734,80.40747070310002 35.5018129013,32.8248395585,77.04284667970001 35.5018034298,32.8248432465,77.04284667970001 35.501710223,32.8249762673,73.19763183590001 35.5016279127,32.8250623494,73.67822265620001 35.5014305189,32.8252718132,78.00402832029999 35.5013958178,32.8252893314,77.04284667970001 35.5011622142,32.8254132997,73.67822265620001 35.5009723641,32.8255348373,74.1588134766 35.5009327177,32.8255870566,70.79418945310002 35.5009357352,32.8255816922,70.79418945310002 35.5009664129,32.8256539442,64.5456542969 35.5009258445,32.8257718775,59.73913574220001 35.5005959328,32.825718401,55.8937988281 35.5002077669,32.8257036489,57.3358154297 35.5000283942,32.8256812692,56.85510253910001 35.4998151585,32.8255884815,55.8937988281 35.4995336104,32.8255468234,59.73913574220001 35.4991066363,32.8254126292,59.2584228516 35.4987103399,32.8253055084,61.1810302734 35.4986628983,32.8252569772,58.7777099609 35.4986178875,32.8252076916,55.41308593750001 35.4986100085,32.8252141457,55.8937988281 35.4982980341,32.8250913508,56.37451171880001 35.4981502611,32.8249902651,54.9323730469 35.4980534501,32.8249237128,54.4517822266 35.4976953752,32.824799493,50.6065673828 35.4974595923,32.8245649673,48.20336914060001 35.4972849973,32.8244829085,42.91601562500001 35.4972388968,32.8244399093,39.5512695312 35.4968402535,32.8242238238,41.4739990234 35.4966787342,32.8241629712,39.0706787109 35.4964549374,32.8241748735,38.109375 35.4963374231,32.8241444472,34.7448730469 35.4961183202,32.8241915535,32.3415527344 35.4959877301,32.8240662441,28.9769287109 35.4958686233,32.8240343928,28.0155029297 35.4956058506,32.8238429502,23.208984375 35.4951896891,32.8237796668,16.9604492188 35.4951810557,32.8237768169,16.9604492188 35.4949537385,32.823713785,13.1151123047 35.4947857652,32.8236749768,9.750610351600001 35.4945789836,32.8236366715,6.3858642578 35.4942890536,32.8236279543,0.1374511719 35.494153602,32.8236433771,-3.2272949219 35.4940246046,32.82366978,-7.072509765600001 35.4938599002,32.8237181436,-8.9952392578 35.4937040806,32.8236856218,-12.3598632812 35.4934846424,32.8237277828,-17.6470947266 35.4932789505,32.8237534314,-21.49230957030001 35.4931248911,32.8238059022,-24.8569335938 35.4928854201,32.8239396773,-27.7409667969 35.4925115872,32.823968092,-30.6247558594 35.4922670871,32.824010672,-35.43151855470001 35.4920260236,32.8239659965,-38.31530761720001 35.4917317349,32.8240354825,-42.1606445312 35.491647413,32.8239608835,-44.5639648438 35.491576083,32.8239234164,-49.3706054688 35.4915729817,32.8239167109,-49.3706054688 35.4914364405,32.8239034675,-51.29321289060001 35.4913977999,32.8238751367,-54.6578369141 35.4913007375,32.8237829357,-55.6190185547 35.4911521263,32.8236908186,-58.02246093750001 35.491038803,32.8237245139,-62.82897949220001 35.4909648746,32.823830964,-66.67431640620001 35.4909669701,32.8240797389,-70.51953125000001 35.4910112265,32.824127432,-70.03894042970001 35.4911281541,32.8242627159,-73.4035644531 35.491137458,32.8242797311,-74.36486816410002 35.4912591632,32.8244459443,-77.7294921875 35.4913340136,32.8246484511,-82.53601074220002 35.4913359415,32.8246570006,-82.53601074220002 35.4913562257,32.8247808851,-85.9006347656 35.4914794397,32.8251015767,-89.26538085940001 35.4916224349,32.8253314085,-91.18798828120002 35.4918385204,32.8255043272,-95.03320312500001 35.4918335751,32.8255977854,-98.3978271484 35.4917491693,32.8256423771,-99.83972167970001 35.4915903322,32.8256458137,-103.6849365234 35.4914521147,32.825641958,-107.0496826172 35.4912957922,32.8256696183,-112.3370361328 35.4911540542,32.8256530222,-116.1822509766 35.4910201114,32.8256852925,-120.5081787109 35.4908443429,32.8256291337,-124.833984375 35.4906625394,32.825594265,-128.1987304688 35.4904980026,32.8256801795,-132.5245361328 35.4903655685,32.8257716261,-137.8118896484 35.4903593659,32.8257725481,-137.8118896484 35.4902160354,32.8258248512,-142.1376953125 35.4902089108,32.825825857,-141.6571044922 35.4901283607,32.8258507513,-143.5797119141 35.4901338927,32.8260411881,-143.0991210938 35.4901373293,32.8261650726,-143.5797119141 35.4901923146,32.826358024,-144.5411376953 35.4902809113,32.8265193757,-145.9830322266 35.4905139282,32.8266909532,-146.9444580078 35.4907916207,32.8268589266,-148.3863525391 35.4912408907,32.8271100484,-147.9056396484 35.4918619897,32.8275240306,-150.7896728516 35.4919391032,32.8275588993,-150.7896728516 35.4921525903,32.8276042454,-151.2702636719 35.4921535123,32.8276047483,-151.2702636719 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>J07: Wadi Hamam to Tabgha</name>
+				<styleUrl>#path0Style2</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							35.491998028,32.8274920117,-154.6350097656 35.4921909794,32.8275350109,-154.6350097656 35.4950880166,32.8282000311,-157.9995117188 35.4956249613,32.8284359816,-162.8061523438 35.4962039832,32.8286499716,-168.0935058594 35.498606991,32.8294230346,-171.4580078125 35.5002380256,32.8301530145,-176.2646484375 35.5016330257,32.8306890372,-180.1098632812 35.501933014,32.8310539853,-184.9165039062 35.5019549746,32.8310539853,-184.9165039062 35.5031349789,32.8316119686,-188.76171875 35.5044650193,32.8320840374,-192.1263427734 35.5051300395,32.8323629871,-195.9715576172 35.5054089893,32.8324909788,-194.5296630859 35.5054949876,32.8343149647,-197.8941650391 35.5083269812,32.8340579756,-201.7395019531 35.5097219814,32.8339289781,-203.1815185547 35.5099580158,32.8358600009,-208.9494628906 35.5099580158,32.8358600009,-204.6235351562 35.5105379596,32.8428980336,-202.2202148438 35.5105589982,32.8446579818,-201.7395019531 35.5102160107,32.8458809853,-198.8555908203 35.5086060148,32.8488210216,-195.4909667969 35.5118890386,32.854999993,-195.0103759766 35.5119109992,32.8565239906,-190.6843261719 35.5120180361,32.8569099773,-191.1650390625 35.5124470219,32.8582840227,-188.76171875 35.5129839666,32.8595709801,-184.9165039062 35.51281197,32.8601500019,-180.5904541016 35.5128770135,32.8607939836,-177.2259521484 35.5128979683,32.8608580213,-177.2259521484 35.5133489985,32.8616310004,-180.5904541016 35.5119320378,32.8633259889,-178.6678466797 35.5120399967,32.8637549747,-175.7839355469 35.5123190302,32.8640340082,-172.4193115234 35.512339985,32.8642060049,-169.0546875 35.512339985,32.8642060049,-169.0546875 35.514572002,32.8646140359,-174.3419189453 35.514572002,32.8645919915,-174.3419189453 35.5148080364,32.8643769957,-177.7066650391 35.5149149895,32.864356041,-179.1485595703 35.5197859649,32.8656219598,-182.5130615234 35.5200430378,32.8657079581,-182.5130615234 35.5245489813,32.8666090127,-186.8391113281 35.5251499638,32.8666090127,-190.2036132812 35.5253010057,32.86607299,-195.0103759766 35.527575016,32.8651499748,-198.8555908203 35.5291199684,32.86628698,-194.5296630859 35.5288410187,32.8664159775,-191.1650390625 35.5288410187,32.8669949993,-190.2036132812 35.5289479718,32.8669949993,-194.5296630859 35.528927017,32.8670169599,-190.2036132812 35.5292489659,32.8669309616,-193.568359375 35.5297210347,32.8668240085,-196.9329833984 35.5312659871,32.8676610254,-200.7783203125 35.5318239704,32.8690120205,-197.4135742188 35.531951962,32.8692700155,-197.4135742188 35.5323169939,32.8698920365,-194.0489501953 35.5330469739,32.8705569729,-191.6456298828 35.5332400091,32.8708360065,-188.2810058594 35.5335189588,32.8710290417,-186.8391113281 35.5342699774,32.8711370006,-183.4744873047 35.5348060001,32.8712870367,-178.1872558594 35.5350850336,32.8712219931,-173.3806152344 35.5350850336,32.8712219931,-173.3806152344 35.5352349859,32.8712010384,-169.0546875 35.5354069825,32.8712010384,-165.6900634766 35.5354290269,32.8712010384,-165.6900634766 35.5357929692,32.8712870367,-161.3641357422 35.5360509641,32.8713300359,-157.5187988281 35.5366950296,32.8715010267,-153.1929931641 35.5370380171,32.871587025,-157.0382080078 35.5379180331,32.8717160225,-152.2316894531 35.5394199863,32.8717369772,-148.8670654297 35.5400199629,32.8720160108,-144.5411376953 35.5400420073,32.8720379714,-144.5411376953 35.5404709931,32.8723600041,-146.9444580078 35.5414579622,32.8725960385,-151.7508544922 35.5418659933,32.8728749882,-155.1156005859 35.5420799833,32.8730250243,-156.5576171875 35.5423379783,32.8732400201,-160.8835449219 35.5425310135,32.8733680118,-164.2481689453 35.5431100354,32.8737550043,-172.4193115234 35.5435820203,32.8740760311,-178.1872558594 35.5442260019,32.8740549926,-184.9165039062 35.5445480347,32.8740549926,-188.2810058594 35.5452350155,32.8740549926,-192.1263427734 35.5455139652,32.8741190303,-191.6456298828 35.5467580073,32.8744839784,-195.0103759766 35.5483029597,32.8746770136,-198.8555908203 35.5491610151,32.8741620295,-193.0877685547 35.5499339942,32.8737329599,-191.6456298828 35.5507919658,32.8730889782,-195.0103759766 35.5516510271,32.8729609866,-196.4522705078 35.5524659995,32.8731749766,-195.0103759766 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>J08: Tabgha to Capernaum</name>
+				<styleUrl>#path0Style2</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							35.5525519978,32.8731540218,-183.955078125 35.5526160356,32.8731540218,-182.9937744141 35.5534320138,32.8732609749,-179.6292724609 35.5566499941,32.8737550043,-176.2646484375 35.5569290277,32.8737969976,-176.2646484375 35.5582810286,32.8744630236,-179.6292724609 35.5614140164,32.8757069819,-177.2259521484 35.562271988,32.8762010112,-179.1485595703 35.5648680311,32.8777670022,-183.955078125 35.5654909741,32.8781320341,-187.3198242188 35.5666279793,32.8790969588,-192.1263427734 35.5677010305,32.8801059723,-193.568359375 35.568516003,32.8807070386,-190.2036132812 35.5687309988,32.880641995,-188.76171875 35.5696319696,32.8805140033,-190.2036132812 35.5715629924,32.8806210402,-191.1650390625 35.5730439909,32.8806210402,-194.5296630859 35.5738380086,32.8806210402,-195.9715576172 35.574438991,32.8806210402,-195.9715576172 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>J09: Tabgha to Mt. Beatitudes</name>
+				<styleUrl>#path0Style2</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							35.5525519978,32.8731110226,-190.6843261719 35.5524659995,32.8733250126,-187.3198242188 35.5524440389,32.8733899724,-183.4744873047 35.5523800012,32.8734329715,-183.4744873047 35.5520149693,32.873411011,-177.7066650391 35.551714981,32.8733899724,-171.9387207031 35.5515429843,32.8734540101,-167.1319580078 35.5515429843,32.8734759707,-167.1319580078 35.5519510154,32.8738399968,-172.8999023438 35.5519510154,32.8738399968,-170.9772949219 35.5519510154,32.8738829959,-168.0935058594 35.5521439668,32.8742689826,-161.8448486328 35.5521869659,32.8744409792,-158.4802246094 35.5522940028,32.8746989742,-154.154296875 35.5524019618,32.8748920094,-150.3089599609 35.5526160356,32.87512796,-145.9830322266 35.552594997,32.8754499927,-139.7344970703 35.552594997,32.8754499927,-139.7344970703 35.5525300372,32.8755779844,-136.3698730469 35.5524870381,32.8758570179,-133.0052490234 35.5525089987,32.8760290146,-129.6407470703 35.5524870381,32.8762870096,-125.3146972656 35.5526590347,32.8766510356,-121.4694824219 35.5528310314,32.8771879803,-118.1048583984 35.553217018,32.8780030366,-115.7015380859 35.5531949736,32.8787760157,-109.4528808594 35.5537960399,32.8796980251,-106.0883789062 35.5541400332,32.8802560084,-104.1657714844 35.5546759721,32.8807279933,-100.3204345703 35.5546120182,32.88089999,-96.95593261720001 35.5546120182,32.8812650219,-90.7072753906 35.5550189596,32.881308021,-85.42004394529999 35.5551270023,32.8813719749,-83.97802734379999 35.5551700015,32.8826809768,-80.61340332029999 35.5558780208,32.8834100347,-76.2874755859 35.5559849739,32.8833249584,-74.8454589844 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
