@@ -20,6 +20,7 @@ import android.view.Menu;
 
 import com.ekito.simpleKML.Serializer;
 import com.ekito.simpleKML.model.Kml;
+import com.fauziazarinn.jesustrail.R;
 
 // TODO: Don't restart map on orientation change
 // TODO: Get good map tiles

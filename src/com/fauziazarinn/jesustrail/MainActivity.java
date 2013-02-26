@@ -1,48 +1,46 @@
 package com.fauziazarinn.jesustrail;
 
 import android.os.Bundle;
-import android.app.ListActivity;
-import android.content.Intent;
+import android.support.v4.app.FragmentActivity;
+import android.support.v4.app.FragmentTabHost;
 import android.view.Menu;
-import android.view.View;
-import android.widget.ArrayAdapter;
-import android.widget.ListView;
+import android.widget.TabHost.OnTabChangeListener;
 
-public class MainActivity extends ListActivity {
+import com.fauziazarinn.jesustrail.R;
 
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
-        		android.R.layout.simple_list_item_1, getResources().getStringArray(R.array.main_navigation_items));
-        setListAdapter(adapter);
-        
-        AtlasManager.loadAtlas(this);
-    }
+public class MainActivity extends FragmentActivity implements OnTabChangeListener{
 
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.activity_main, menu);
-        return true;
-    }
+	private FragmentTabHost tabHost;
+
+		@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.activity_main);
+
+		tabHost = (FragmentTabHost)findViewById(android.R.id.tabhost);
+		tabHost.setup(this, getSupportFragmentManager(), R.id.realtabcontent);
+
+		tabHost.addTab(tabHost.newTabSpec("trail_selection").setIndicator("On The Trail",
+				getResources().getDrawable(android.R.drawable.ic_menu_compass)),
+                TrailSelectionFragment.class, null);
+		tabHost.addTab(tabHost.newTabSpec("info_selection").setIndicator("Information",
+				getResources().getDrawable(android.R.drawable.ic_menu_help)),
+                InfoSelectionFragment.class, null);
+		
+		AtlasManager.loadAtlas(this);
+	}
 
 	@Override
-	protected void onListItemClick(ListView l, View v, int position, long id) {
-		switch (position) {
-		case 0:
-			// TODO: Before The Trail view
-			break;
-		case 1:
-			Intent intent = new Intent(this, MapActivity.class);
-		    startActivity(intent);
-			break;
-
-		default:
-			break;
+		public void onTabChanged(String tabId) {
+			// TODO Auto-generated method stub
+			
 		}
-		super.onListItemClick(l, v, position, id);
+
+	@Override
+	public boolean onCreateOptionsMenu(Menu menu) {
+		// Inflate the menu; this adds items to the action bar if it is present.
+		getMenuInflater().inflate(R.menu.activity_main, menu);
+		return true;
 	}
-    
+
 }

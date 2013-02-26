@@ -5,13 +5,21 @@
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
     <string name="cd_header_image">Header Image</string>
-
-    <string-array name="main_navigation_items">
-        <item>Before You Start</item>
-        <item>On The Trail</item>
-    </string-array>
-
     <string name="title_activity_map">MapActivity</string>
     <string name="raw_res_atlas">atlas.zip</string>
+
+    <string-array name="trail_stages">
+        <item>J0: Nazareth Old City</item>
+        <item>J1: Nazareth to Zippori</item>
+        <item>J2: Zippori to Cana</item>
+        <item>J3: Cana to Kibbutz Lavi</item>
+        <item>J3A: Detour through Ilaniya (NEW)</item>
+        <item>J4: Kibbutz Lavi to Nebi Shu’eib</item>
+        <item>J5: Nebi Shu’eib to Moshav Arbel</item>
+        <item>J6: Moshav Arbel to Wadi Hamam</item>
+        <item>J7: Wadi Hamam to Tabgha</item>
+        <item>J8: Tabgha to Capernaum</item>
+        <item>J9: Tabgha to Mt. Beatitudes</item>
+        </string-array>
 
 </resources>
